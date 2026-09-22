@@ -1,0 +1,32 @@
+# webcraft
+
+> 标签: MIT, c++, vcpkg, webcraft
+
+## 简介
+
+An async first C++ networking library leveraging powerful features of C++23 built for scale, speed, and ease.
+
+本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+
+## 官网
+
+- 官网：https://github.com/adityarao2005/WebCraft/
+- vcpkg 端口：https://vcpkg.io/en/packages/webcraft
+- vcpkg 源码：https://github.com/microsoft/vcpkg/tree/master/ports/webcraft
+
+## 历史版本号
+
+- 当前版本：1.0.5
+
+- 1.0.5
+- 1.0.3
+- 1.0.2
+
+## 获取地址
+
+vcpkg 安装：`vcpkg install webcraft`
+port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/webcraft
+- 许可证：MIT
+- 平台/支持条件：!(uwp | android | emscripten)
+
+- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/w-/webcraft.json

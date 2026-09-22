@@ -1,0 +1,30 @@
+# libgme
+
+> 标签: LGPL-2.1-or-later OR GPL-2.0-or-later, c++, libgme, vcpkg
+
+## 简介
+
+Video game music file emulation/playback library
+
+本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+
+## 官网
+
+- 官网：https://bitbucket.org/mpyne/game-music-emu/wiki/Home
+- vcpkg 端口：https://vcpkg.io/en/packages/libgme
+- vcpkg 源码：https://github.com/microsoft/vcpkg/tree/master/ports/libgme
+
+## 历史版本号
+
+- 当前版本：0.6.3#1
+
+- 0.6.3#1
+- 0.6.3
+
+## 获取地址
+
+vcpkg 安装：`vcpkg install libgme`
+port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libgme
+- 许可证：LGPL-2.1-or-later OR GPL-2.0-or-later
+
+- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libgme.json

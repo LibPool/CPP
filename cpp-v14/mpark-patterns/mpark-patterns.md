@@ -1,0 +1,29 @@
+# mpark-patterns
+
+> 标签: BSL-1.0, c++, mpark-patterns, vcpkg
+
+## 简介
+
+MPark.Patterns is an experimental pattern matching library for C++17.
+
+本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+
+## 官网
+
+- 官网：https://github.com/mpark/patterns
+- vcpkg 端口：https://vcpkg.io/en/packages/mpark-patterns
+- vcpkg 源码：https://github.com/microsoft/vcpkg/tree/master/ports/mpark-patterns
+
+## 历史版本号
+
+- 当前版本：未知
+
+- -
+
+## 获取地址
+
+vcpkg 安装：`vcpkg install mpark-patterns`
+port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/mpark-patterns
+- 许可证：BSL-1.0
+
+- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/m-/mpark-patterns.json

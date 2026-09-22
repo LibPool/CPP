@@ -1,0 +1,30 @@
+# lloyal-ai-inlined-vector
+
+> 标签: MIT, c++, lloyal-ai-inlined-vector, vcpkg
+
+## 简介
+
+A C++17/20 header-only vector-like container with Small Buffer Optimization (SBO) and full allocator support. Zero external dependencies.
+
+本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+
+## 官网
+
+- 官网：https://github.com/lloyal-ai/inlined-vector
+- vcpkg 端口：https://vcpkg.io/en/packages/lloyal-ai-inlined-vector
+- vcpkg 源码：https://github.com/microsoft/vcpkg/tree/master/ports/lloyal-ai-inlined-vector
+
+## 历史版本号
+
+- 当前版本：5.7.1
+
+- 5.7.1
+
+## 获取地址
+
+vcpkg 安装：`vcpkg install lloyal-ai-inlined-vector`
+port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/lloyal-ai-inlined-vector
+- 许可证：MIT
+- 平台/支持条件：!uwp
+
+- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/l-/lloyal-ai-inlined-vector.json

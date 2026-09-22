@@ -1,0 +1,29 @@
+# atl
+
+> 标签: atl, c++, vcpkg
+
+## 简介
+
+A stub package that ensures Visual Studio has Active Template Library (ATL) installed.
+
+本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+
+## 官网
+
+- vcpkg 端口：https://vcpkg.io/en/packages/atl
+- vcpkg 源码：https://github.com/microsoft/vcpkg/tree/master/ports/atl
+
+## 历史版本号
+
+- 当前版本：0#1
+
+- 0#1
+- 0
+
+## 获取地址
+
+vcpkg 安装：`vcpkg install atl`
+port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/atl
+- 平台/支持条件：windows & !xbox
+
+- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/a-/atl.json
