@@ -27,4 +27,4 @@ python tools/generate_index.py
 - cpp-v20：2862 个端口
 - cpp-v23：2862 个端口
 
-数据缓存见 [tools/cache/vcpkg-master.tar.gz](tools/cache/vcpkg-master.tar.gz)。
+端口清单以 vcpkg 官方仓库为准，可通过上方数据源重新抓取生成。
