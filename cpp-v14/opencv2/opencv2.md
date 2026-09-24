@@ -6,7 +6,7 @@
 
 Open Source Computer Vision Library
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -30,13 +30,12 @@ Open Source Computer Vision Library
 - 2.4.13.7#16
 - 2.4.13.7#15
 - 2.4.13.7#14
-- 共 20 条版本记录，完整清单见 vcpkg versions 文件。
+- 共 20 条 vcpkg 版本记录，完整清单见 vcpkg versions 文件。
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install opencv2`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/opencv2
-- 许可证：BSD-3-Clause
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/opencv2
+- vcpkg 许可证：BSD-3-Clause
 - 平台/支持条件：!uwp & !(arm & windows) & !android
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/o-/opencv2.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/o-/opencv2.json

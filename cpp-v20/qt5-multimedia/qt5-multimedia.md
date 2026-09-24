@@ -6,7 +6,7 @@
 
 Qt Multimedia is an essential module that provides a rich set of QML types and C++ classes to handle multimedia content. It also provides necessary APIs to access the camera and radio functionality.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -29,11 +29,10 @@ Qt Multimedia is an essential module that provides a rich set of QML types and C
 - 5.15.11#1
 - 5.15.11
 - 5.15.10
-- 共 19 条版本记录，完整清单见 vcpkg versions 文件。
+- 共 19 条 vcpkg 版本记录，完整清单见 vcpkg versions 文件。
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install qt5-multimedia`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/qt5-multimedia
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/q-/qt5-multimedia.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/qt5-multimedia
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/q-/qt5-multimedia.json

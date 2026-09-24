@@ -6,7 +6,7 @@
 
 Source code generation for automatic differentiation using operator overloading (extension of CppAD)
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,7 +23,6 @@ Source code generation for automatic differentiation using operator overloading 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install cppadcodegen`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/cppadcodegen
-- 许可证：EPL-1.0 OR GPL-3.0-only
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/c-/cppadcodegen.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/cppadcodegen
+- vcpkg 许可证：EPL-1.0 OR GPL-3.0-only
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/c-/cppadcodegen.json

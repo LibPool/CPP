@@ -6,7 +6,7 @@
 
 A cross-platform protocol library to communicate with iOS devices
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -16,7 +16,7 @@ A cross-platform protocol library to communicate with iOS devices
 
 ## 历史版本号
 
-- 当前版本：1.3.17#4#1
+- 当前版本：未知#1
 
 - 1.3.17#4
 - 1.3.17#3
@@ -27,8 +27,7 @@ A cross-platform protocol library to communicate with iOS devices
 ## 获取地址
 
 vcpkg 安装：`vcpkg install libimobiledevice`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libimobiledevice
-- 许可证：LGPL-2.1-or-later
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libimobiledevice
+- vcpkg 许可证：LGPL-2.1-or-later
 - 平台/支持条件：!uwp
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libimobiledevice.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libimobiledevice.json

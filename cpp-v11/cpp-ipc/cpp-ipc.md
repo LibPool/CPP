@@ -1,18 +1,20 @@
 # cpp-ipc
 
-> 标签: c++, cpp-ipc, vcpkg
+> 标签: c++, conan, cpp-ipc, vcpkg
 
 ## 简介
 
 C++ IPC Library: A high-performance inter-process communication using shared memory on Linux/Windows.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集、Conan Center 官方 recipe 集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
 - 官网：https://github.com/mutouyun/cpp-ipc
 - vcpkg 端口：https://vcpkg.io/en/packages/cpp-ipc
 - vcpkg 源码：https://github.com/microsoft/vcpkg/tree/master/ports/cpp-ipc
+- Conan Center：https://conan.io/center/recipes/cpp-ipc
+- Conan recipe 源码：https://github.com/conan-io/conan-center-index/tree/master/recipes/cpp-ipc
 
 ## 历史版本号
 
@@ -25,11 +27,15 @@ C++ IPC Library: A high-performance inter-process communication using shared mem
 - 1.0.1#1
 - 1.0.1
 - 1.0.0
+- Conan 1.3.0
+- Conan 1.2.0
+- Conan 1.1.1
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install cpp-ipc`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/cpp-ipc
+Conan 安装：`conan install --requires=cpp-ipc/1.3.0`
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/cpp-ipc
 - 平台/支持条件：!osx & !android
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/c-/cpp-ipc.json
+- 版本记录：https://github.com/conan-io/conan-center-index/blob/master/recipes/cpp-ipc/config.yml
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/c-/cpp-ipc.json

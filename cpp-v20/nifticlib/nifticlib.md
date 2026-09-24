@@ -6,7 +6,7 @@
 
 Nifticlib is a C I/O library for reading and writing files in the nifti-1 data format.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,7 +23,6 @@ Nifticlib is a C I/O library for reading and writing files in the nifti-1 data f
 ## 获取地址
 
 vcpkg 安装：`vcpkg install nifticlib`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/nifticlib
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/nifticlib
 - 平台/支持条件：!uwp
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/n-/nifticlib.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/n-/nifticlib.json

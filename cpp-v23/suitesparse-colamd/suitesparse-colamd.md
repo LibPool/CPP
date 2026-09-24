@@ -6,7 +6,7 @@
 
 COLAMD: Routines for column approximate minimum degree ordering algorithm in SuiteSparse
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,7 +23,6 @@ COLAMD: Routines for column approximate minimum degree ordering algorithm in Sui
 ## 获取地址
 
 vcpkg 安装：`vcpkg install suitesparse-colamd`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/suitesparse-colamd
-- 许可证：BSD-3-Clause
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/s-/suitesparse-colamd.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/suitesparse-colamd
+- vcpkg 许可证：BSD-3-Clause
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/s-/suitesparse-colamd.json

@@ -6,7 +6,7 @@
 
 Collection of cross-platform one-file C/C++ libraries with no dependencies
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,7 +23,6 @@ Collection of cross-platform one-file C/C++ libraries with no dependencies
 ## 获取地址
 
 vcpkg 安装：`vcpkg install cute-headers`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/cute-headers
-- 许可证：Zlib OR Unlicense
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/c-/cute-headers.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/cute-headers
+- vcpkg 许可证：Zlib OR Unlicense
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/c-/cute-headers.json

@@ -6,7 +6,7 @@
 
 The Qt OPC UA module implements a Qt API to interact with OPC UA on top of a 3rd party OPC UA stack.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -30,11 +30,10 @@ The Qt OPC UA module implements a Qt API to interact with OPC UA on top of a 3rd
 - 6.9.0
 - 6.8.3#1
 - 6.8.3
-- 共 41 条版本记录，完整清单见 vcpkg versions 文件。
+- 共 41 条 vcpkg 版本记录，完整清单见 vcpkg versions 文件。
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install qtopcua`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/qtopcua
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/q-/qtopcua.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/qtopcua
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/q-/qtopcua.json

@@ -6,7 +6,7 @@
 
 Theora is a free and open video compression format from the Xiph.org Foundation.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,6 +23,5 @@ Theora is a free and open video compression format from the Xiph.org Foundation.
 ## 获取地址
 
 vcpkg 安装：`vcpkg install libtheora`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libtheora
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libtheora.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libtheora
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libtheora.json

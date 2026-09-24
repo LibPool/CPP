@@ -6,7 +6,7 @@
 
 C++ classes for decoding EventHeader-encoded Linux Tracepoints
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -28,8 +28,7 @@ C++ classes for decoding EventHeader-encoded Linux Tracepoints
 ## 获取地址
 
 vcpkg 安装：`vcpkg install libeventheader-decode`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libeventheader-decode
-- 许可证：MIT
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libeventheader-decode
+- vcpkg 许可证：MIT
 - 平台/支持条件：linux | windows
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libeventheader-decode.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libeventheader-decode.json

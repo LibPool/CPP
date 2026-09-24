@@ -6,7 +6,7 @@
 
 Lottie is a family of player software for a certain json-based file format for describing 2d vector graphics animations. These files are created/exported directly from After Effects by a plugin called Bodymovin.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -30,11 +30,10 @@ Lottie is a family of player software for a certain json-based file format for d
 - 6.9.0
 - 6.8.3
 - 6.8.2
-- 共 34 条版本记录，完整清单见 vcpkg versions 文件。
+- 共 34 条 vcpkg 版本记录，完整清单见 vcpkg versions 文件。
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install qtlottie`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/qtlottie
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/q-/qtlottie.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/qtlottie
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/q-/qtlottie.json

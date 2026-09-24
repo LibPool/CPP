@@ -6,7 +6,7 @@
 
 A minimal C++ library for spatial data structures based on voxel hashing.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,7 +23,6 @@ A minimal C++ library for spatial data structures based on voxel hashing.
 ## 获取地址
 
 vcpkg 安装：`vcpkg install spatial-hash`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/spatial-hash
-- 许可证：BSD-3-Clause
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/s-/spatial-hash.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/spatial-hash
+- vcpkg 许可证：BSD-3-Clause
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/s-/spatial-hash.json

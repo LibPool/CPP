@@ -6,7 +6,7 @@
 
 LuaSocket is a Lua extension library that is composed by two parts: a C core that provides support for the TCP and UDP transport layers, and a set of Lua modules that add support for functionality commonly needed by applications that deal with the Internet.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -26,7 +26,6 @@ LuaSocket is a Lua extension library that is composed by two parts: a C core tha
 ## 获取地址
 
 vcpkg 安装：`vcpkg install luasocket`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/luasocket
-- 许可证：MIT
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/l-/luasocket.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/luasocket
+- vcpkg 许可证：MIT
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/l-/luasocket.json

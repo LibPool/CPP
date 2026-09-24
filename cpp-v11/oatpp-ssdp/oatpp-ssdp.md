@@ -6,7 +6,7 @@
 
 Oat++ SSDP (Simple Service Discovery Protocol) submodule.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -24,7 +24,6 @@ Oat++ SSDP (Simple Service Discovery Protocol) submodule.
 ## 获取地址
 
 vcpkg 安装：`vcpkg install oatpp-ssdp`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/oatpp-ssdp
-- 许可证：Apache-2.0
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/o-/oatpp-ssdp.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/oatpp-ssdp
+- vcpkg 许可证：Apache-2.0
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/o-/oatpp-ssdp.json

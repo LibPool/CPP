@@ -6,7 +6,7 @@
 
 Open source log handling and visualization for spatial and embodied AI. Managed infrastructure to ingest, store, analyze, and stream data at scale with built-in visual debugging. Fast, flexible, and easy to use.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -30,12 +30,11 @@ Open source log handling and visualization for spatial and embodied AI. Managed 
 - 0.30.2
 - 0.30.1
 - 0.30.0
-- 共 24 条版本记录，完整清单见 vcpkg versions 文件。
+- 共 24 条 vcpkg 版本记录，完整清单见 vcpkg versions 文件。
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install rerun-sdk`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/rerun-sdk
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/rerun-sdk
 - 平台/支持条件：(windows & x64 & !staticcrt) | (osx & arm64) | (linux & (x64 | arm64))
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/r-/rerun-sdk.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/r-/rerun-sdk.json

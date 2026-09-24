@@ -6,7 +6,7 @@
 
 DMLC-Core is the backbone library to support all DMLC projects, offers the bricks to build efficient and scalable distributed machine learning libraries.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,8 +23,7 @@ DMLC-Core is the backbone library to support all DMLC projects, offers the brick
 ## 获取地址
 
 vcpkg 安装：`vcpkg install dmlc`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/dmlc
-- 许可证：Apache-2.0
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/dmlc
+- vcpkg 许可证：Apache-2.0
 - 平台/支持条件：!uwp
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/d-/dmlc.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/d-/dmlc.json

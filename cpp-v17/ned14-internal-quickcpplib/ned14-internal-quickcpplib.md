@@ -6,7 +6,7 @@
 
 NOT FOR EXTERNAL CONSUMPTION, a set of internal scripts used by ned14's libraries.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -16,14 +16,13 @@ NOT FOR EXTERNAL CONSUMPTION, a set of internal scripts used by ned14's librarie
 
 ## 历史版本号
 
-- 当前版本：0.0.0-cad832c8#1
+- 当前版本：未知
 
 - 0.0.0-cad832c8#1
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install ned14-internal-quickcpplib`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/ned14-internal-quickcpplib
-- 许可证：Apache-2.0 OR BSL-1.0
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/n-/ned14-internal-quickcpplib.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/ned14-internal-quickcpplib
+- vcpkg 许可证：Apache-2.0 OR BSL-1.0
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/n-/ned14-internal-quickcpplib.json

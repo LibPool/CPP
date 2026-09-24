@@ -6,7 +6,7 @@
 
 https://github.com/nodejs/gyp-next
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -22,7 +22,6 @@ https://github.com/nodejs/gyp-next
 ## 获取地址
 
 vcpkg 安装：`vcpkg install vcpkg-tool-gyp-next`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/vcpkg-tool-gyp-next
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/vcpkg-tool-gyp-next
 - 平台/支持条件：native
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/v-/vcpkg-tool-gyp-next.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/v-/vcpkg-tool-gyp-next.json

@@ -6,7 +6,7 @@
 
 Fastest similarity-measures and distance functions on the Wild West – vectors, strings, short molecules, and even DNA sequences. All with a pinch of SIMD for both x86 and ARM.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -34,8 +34,7 @@ Fastest similarity-measures and distance functions on the Wild West – vectors,
 ## 获取地址
 
 vcpkg 安装：`vcpkg install simsimd`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/simsimd
-- 许可证：Apache-2.0
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/simsimd
+- vcpkg 许可证：Apache-2.0
 - 平台/支持条件：!uwp & !(arm64 & windows)
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/s-/simsimd.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/s-/simsimd.json

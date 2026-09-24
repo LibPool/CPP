@@ -6,7 +6,7 @@
 
 A modern C++ network library based on libevent for developing high performance network services in TCP/UDP/HTTP protocols.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -26,6 +26,5 @@ A modern C++ network library based on libevent for developing high performance n
 ## 获取地址
 
 vcpkg 安装：`vcpkg install evpp`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/evpp
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/e-/evpp.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/evpp
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/e-/evpp.json

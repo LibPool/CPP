@@ -6,7 +6,7 @@
 
 A library for communicating with and sending data to an Icecast server.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,8 +23,7 @@ A library for communicating with and sending data to an Icecast server.
 ## 获取地址
 
 vcpkg 安装：`vcpkg install libshout`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libshout
-- 许可证：LGPL-2.0-or-later
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libshout
+- vcpkg 许可证：LGPL-2.0-or-later
 - 平台/支持条件：!windows
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libshout.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libshout.json

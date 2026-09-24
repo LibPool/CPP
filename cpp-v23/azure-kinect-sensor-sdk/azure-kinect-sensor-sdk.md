@@ -6,7 +6,7 @@
 
 Azure Kinect SDK is a cross platform (Linux and Windows) user mode SDK to read data from your Azure Kinect device.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -31,8 +31,7 @@ Azure Kinect SDK is a cross platform (Linux and Windows) user mode SDK to read d
 ## 获取地址
 
 vcpkg 安装：`vcpkg install azure-kinect-sensor-sdk`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/azure-kinect-sensor-sdk
-- 许可证：MIT
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/azure-kinect-sensor-sdk
+- vcpkg 许可证：MIT
 - 平台/支持条件：(linux | windows) & !(static & staticcrt)
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/a-/azure-kinect-sensor-sdk.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/a-/azure-kinect-sensor-sdk.json

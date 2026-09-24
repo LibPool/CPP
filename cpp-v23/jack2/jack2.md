@@ -6,7 +6,7 @@
 
 Cross-platform API that enables device sharing and inter-application audio routing
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,8 +23,7 @@ Cross-platform API that enables device sharing and inter-application audio routi
 ## 获取地址
 
 vcpkg 安装：`vcpkg install jack2`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/jack2
-- 许可证：GPL-2.0
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/jack2
+- vcpkg 许可证：GPL-2.0
 - 平台/支持条件：!uwp
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/j-/jack2.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/j-/jack2.json

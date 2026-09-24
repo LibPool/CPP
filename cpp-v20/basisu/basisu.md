@@ -6,7 +6,7 @@
 
 Basis Universal is a supercompressed GPU texture and video compression format that outputs a highly compressed intermediate file format (.basis) that can be quickly transcoded to a wide variety of GPU texture compression formats.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -33,7 +33,6 @@ Basis Universal is a supercompressed GPU texture and video compression format th
 ## 获取地址
 
 vcpkg 安装：`vcpkg install basisu`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/basisu
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/basisu
 - 平台/支持条件：!android
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/b-/basisu.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/b-/basisu.json

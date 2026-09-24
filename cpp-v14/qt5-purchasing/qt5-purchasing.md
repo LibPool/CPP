@@ -6,7 +6,7 @@
 
 Qt Purchasing is an add-on library that enables Qt applications to support in-app purchases. It is a cross-platform library that currently supports purchases made to the Mac App Store on OS X, App Store on iOS, and Google Play on Android.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -29,11 +29,10 @@ Qt Purchasing is an add-on library that enables Qt applications to support in-ap
 - 5.15.11
 - 5.15.10
 - 5.15.9
-- 共 18 条版本记录，完整清单见 vcpkg versions 文件。
+- 共 18 条 vcpkg 版本记录，完整清单见 vcpkg versions 文件。
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install qt5-purchasing`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/qt5-purchasing
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/q-/qt5-purchasing.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/qt5-purchasing
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/q-/qt5-purchasing.json

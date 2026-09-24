@@ -6,7 +6,7 @@
 
 Bento4 is a C++ class library and tools designed to read and write ISO-MP4 files. This format is defined in international specifications ISO/IEC 14496-12, 14496-14 and 14496-15.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -26,6 +26,5 @@ Bento4 is a C++ class library and tools designed to read and write ISO-MP4 files
 ## 获取地址
 
 vcpkg 安装：`vcpkg install bento4`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/bento4
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/b-/bento4.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/bento4
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/b-/bento4.json

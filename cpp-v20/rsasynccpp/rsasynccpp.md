@@ -6,7 +6,7 @@
 
 Task Parallel Library (TPL)/dataflow/actors/async primitives for C++ based on C++ 20 coroutines.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -26,7 +26,6 @@ Task Parallel Library (TPL)/dataflow/actors/async primitives for C++ based on C+
 ## 获取地址
 
 vcpkg 安装：`vcpkg install rsasynccpp`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/rsasynccpp
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/rsasynccpp
 - 平台/支持条件：windows & !arm
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/r-/rsasynccpp.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/r-/rsasynccpp.json

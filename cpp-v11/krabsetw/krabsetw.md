@@ -6,7 +6,7 @@
 
 krabsetw is a header-only C++ library that simplifies interacting with ETW.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -25,7 +25,6 @@ krabsetw is a header-only C++ library that simplifies interacting with ETW.
 ## 获取地址
 
 vcpkg 安装：`vcpkg install krabsetw`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/krabsetw
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/krabsetw
 - 平台/支持条件：windows & !uwp
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/k-/krabsetw.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/k-/krabsetw.json

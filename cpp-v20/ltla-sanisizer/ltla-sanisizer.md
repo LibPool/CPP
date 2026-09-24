@@ -6,7 +6,7 @@
 
 Library that provides a few methods for sanitizing size values so that any overflow results in an error
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -27,7 +27,6 @@ Library that provides a few methods for sanitizing size values so that any overf
 ## 获取地址
 
 vcpkg 安装：`vcpkg install ltla-sanisizer`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/ltla-sanisizer
-- 许可证：MIT
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/l-/ltla-sanisizer.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/ltla-sanisizer
+- vcpkg 许可证：MIT
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/l-/ltla-sanisizer.json

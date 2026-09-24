@@ -6,7 +6,7 @@
 
 Duilib is a free open source DirectUI interface library under Windows. It is widely accepted by major Internet companies due to its simple and easy to expand design and stable and efficient implementation. It is widely used in IM, video client, stock market software, navigation software, and mobile phone assistive software. Duilib is still evolving, and will continue to improve in many aspects such as documentation, examples, animations, and rendering engines.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,7 +23,6 @@ Duilib is a free open source DirectUI interface library under Windows. It is wid
 ## 获取地址
 
 vcpkg 安装：`vcpkg install duilib`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/duilib
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/duilib
 - 平台/支持条件：windows & !uwp
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/d-/duilib.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/d-/duilib.json

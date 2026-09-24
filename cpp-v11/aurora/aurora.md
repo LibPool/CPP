@@ -6,7 +6,7 @@
 
 Aurora is an open-source C++ library providing various rather uncommon C++ utilities
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,6 +23,5 @@ Aurora is an open-source C++ library providing various rather uncommon C++ utili
 ## 获取地址
 
 vcpkg 安装：`vcpkg install aurora`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/aurora
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/a-/aurora.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/aurora
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/a-/aurora.json

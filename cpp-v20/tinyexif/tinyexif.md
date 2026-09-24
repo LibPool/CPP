@@ -1,18 +1,23 @@
 # tinyexif
 
-> 标签: MIT AND BSD-2-Clause, c++, tinyexif, vcpkg
+> 标签: MIT, MIT AND BSD-2-Clause, c++, conan, tinyexif, vcpkg
 
 ## 简介
 
 tiny ISO-compliant C++ EXIF and XMP parsing library for JPEG images
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+Conan Center 收录：Tiny ISO-compliant C++ EXIF and XMP parsing library for JPEG
+
+本库来自 vcpkg 官方端口集、Conan Center 官方 recipe 集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
 - 官网：https://github.com/cdcseacave/TinyEXIF
 - vcpkg 端口：https://vcpkg.io/en/packages/tinyexif
 - vcpkg 源码：https://github.com/microsoft/vcpkg/tree/master/ports/tinyexif
+- 官网（Conan）：https://github.com/cdcseacave/TinyEXIF/
+- Conan Center：https://conan.io/center/recipes/tinyexif
+- Conan recipe 源码：https://github.com/conan-io/conan-center-index/tree/master/recipes/tinyexif
 
 ## 历史版本号
 
@@ -21,11 +26,14 @@ tiny ISO-compliant C++ EXIF and XMP parsing library for JPEG images
 - 1.1.0
 - 1.0.4
 - 1.0.3
+- Conan 1.0.4
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install tinyexif`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/tinyexif
-- 许可证：MIT AND BSD-2-Clause
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/t-/tinyexif.json
+Conan 安装：`conan install --requires=tinyexif/1.0.4`
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/tinyexif
+- vcpkg 许可证：MIT AND BSD-2-Clause
+- Conan 许可证：MIT
+- 版本记录：https://github.com/conan-io/conan-center-index/blob/master/recipes/tinyexif/config.yml
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/t-/tinyexif.json

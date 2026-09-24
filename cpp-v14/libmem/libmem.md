@@ -6,7 +6,7 @@
 
 Advanced Game Hacking Library for C, Modern C++, Rust and Python (Windows/Linux/FreeBSD) (Process/Memory Hacking) (Hooking/Detouring) (Cross Platform) (x86/x64/ARM/ARM64) (DLL/SO Injection) (Internal/External) (Assembler/Disassembler)
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -30,8 +30,7 @@ Advanced Game Hacking Library for C, Modern C++, Rust and Python (Windows/Linux/
 ## 获取地址
 
 vcpkg 安装：`vcpkg install libmem`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libmem
-- 许可证：AGPL-3.0-only
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libmem
+- vcpkg 许可证：AGPL-3.0-only
 - 平台/支持条件：(!xbox & windows) | linux | freebsd | android
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libmem.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libmem.json

@@ -4,9 +4,9 @@
 
 ## 简介
 
-vcpkg 端口 vcpkg-get-python，由 vcpkg C/C++ 软件包管理器收录。
+C++ 库 vcpkg-get-python，由软件包管理器收录。
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -22,8 +22,7 @@ vcpkg 端口 vcpkg-get-python，由 vcpkg C/C++ 软件包管理器收录。
 ## 获取地址
 
 vcpkg 安装：`vcpkg install vcpkg-get-python`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/vcpkg-get-python
-- 许可证：MIT
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/vcpkg-get-python
+- vcpkg 许可证：MIT
 - 平台/支持条件：native
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/v-/vcpkg-get-python.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/v-/vcpkg-get-python.json

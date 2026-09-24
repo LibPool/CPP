@@ -6,7 +6,7 @@
 
 Qt modules for rendering web and PDF content.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -30,11 +30,10 @@ Qt modules for rendering web and PDF content.
 - 6.9.3
 - 6.9.2
 - 6.9.1#3
-- 共 59 条版本记录，完整清单见 vcpkg versions 文件。
+- 共 59 条 vcpkg 版本记录，完整清单见 vcpkg versions 文件。
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install qtwebengine`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/qtwebengine
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/q-/qtwebengine.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/qtwebengine
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/q-/qtwebengine.json

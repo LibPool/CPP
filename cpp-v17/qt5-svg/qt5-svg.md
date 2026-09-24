@@ -6,7 +6,7 @@
 
 Qt SVG provides classes for rendering and displaying SVG drawings in widgets and on other paint devices.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -29,11 +29,10 @@ Qt SVG provides classes for rendering and displaying SVG drawings in widgets and
 - 5.15.11
 - 5.15.10
 - 5.15.9#1
-- 共 19 条版本记录，完整清单见 vcpkg versions 文件。
+- 共 19 条 vcpkg 版本记录，完整清单见 vcpkg versions 文件。
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install qt5-svg`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/qt5-svg
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/q-/qt5-svg.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/qt5-svg
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/q-/qt5-svg.json

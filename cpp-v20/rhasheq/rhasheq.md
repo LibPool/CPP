@@ -6,7 +6,7 @@
 
 Simple header-only librhash wrapper for verifying hashes from a file to a given `const char *`.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -16,14 +16,13 @@ Simple header-only librhash wrapper for verifying hashes from a file to a given 
 
 ## 历史版本号
 
-- 当前版本：0.0.1
+- 当前版本：未知
 
 - 0.0.1
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install rhasheq`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/rhasheq
-- 许可证：0BSD
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/r-/rhasheq.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/rhasheq
+- vcpkg 许可证：0BSD
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/r-/rhasheq.json

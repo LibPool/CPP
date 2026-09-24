@@ -6,7 +6,7 @@
 
 msgpack11 is a tiny MsgPack library for C++11, providing MsgPack parsing and serialization.This library is inspired by json11.The API of msgpack11 is designed to be similar with json11.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -25,6 +25,5 @@ msgpack11 is a tiny MsgPack library for C++11, providing MsgPack parsing and ser
 ## 获取地址
 
 vcpkg 安装：`vcpkg install msgpack11`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/msgpack11
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/m-/msgpack11.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/msgpack11
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/m-/msgpack11.json

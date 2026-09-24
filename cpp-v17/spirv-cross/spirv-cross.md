@@ -1,18 +1,22 @@
 # spirv-cross
 
-> 标签: c++, spirv-cross, vcpkg
+> 标签: Apache-2.0, c++, conan, spirv-cross, vcpkg
 
 ## 简介
 
 SPIRV-Cross is a practical tool and library for performing reflection on SPIR-V and disassembling SPIR-V back to high level languages.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+Conan Center 收录：SPIRV-Cross is a practical tool and library for performing
+
+本库来自 vcpkg 官方端口集、Conan Center 官方 recipe 集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
 - 官网：https://github.com/KhronosGroup/SPIRV-Cross
 - vcpkg 端口：https://vcpkg.io/en/packages/spirv-cross
 - vcpkg 源码：https://github.com/microsoft/vcpkg/tree/master/ports/spirv-cross
+- Conan Center：https://conan.io/center/recipes/spirv-cross
+- Conan recipe 源码：https://github.com/conan-io/conan-center-index/tree/master/recipes/spirv-cross
 
 ## 历史版本号
 
@@ -30,11 +34,14 @@ SPIRV-Cross is a practical tool and library for performing reflection on SPIR-V 
 - 1.4.304.0
 - 1.3.296.0
 - 1.3.290.0
-- 共 15 条版本记录，完整清单见 vcpkg versions 文件。
+- 共 15 条 vcpkg 版本记录，完整清单见 vcpkg versions 文件。
+- Conan 1.4.357.0
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install spirv-cross`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/spirv-cross
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/s-/spirv-cross.json
+Conan 安装：`conan install --requires=spirv-cross/1.4.357.0`
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/spirv-cross
+- Conan 许可证：Apache-2.0
+- 版本记录：https://github.com/conan-io/conan-center-index/blob/master/recipes/spirv-cross/config.yml
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/s-/spirv-cross.json

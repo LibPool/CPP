@@ -6,7 +6,7 @@
 
 C++17, x86/x64 Hooking Library v2.0
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,8 +23,7 @@ C++17, x86/x64 Hooking Library v2.0
 ## 获取地址
 
 vcpkg 安装：`vcpkg install polyhook2`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/polyhook2
-- 许可证：MIT
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/polyhook2
+- vcpkg 许可证：MIT
 - 平台/支持条件：(x86 | x64) & !(uwp | osx)
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/p-/polyhook2.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/p-/polyhook2.json

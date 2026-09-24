@@ -7,7 +7,7 @@
 Microsoft Azure Data Tables SDK for C++
 This library provides Azure Data Tables SDK.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -24,7 +24,6 @@ This library provides Azure Data Tables SDK.
 ## 获取地址
 
 vcpkg 安装：`vcpkg install azure-data-tables-cpp`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/azure-data-tables-cpp
-- 许可证：MIT
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/a-/azure-data-tables-cpp.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/azure-data-tables-cpp
+- vcpkg 许可证：MIT
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/a-/azure-data-tables-cpp.json

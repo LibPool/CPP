@@ -6,7 +6,7 @@
 
 Open source Intel media sdk dispatcher
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -29,8 +29,7 @@ Open source Intel media sdk dispatcher
 ## 获取地址
 
 vcpkg 安装：`vcpkg install mfx-dispatch`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/mfx-dispatch
-- 许可证：BSD-3-Clause
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/mfx-dispatch
+- vcpkg 许可证：BSD-3-Clause
 - 平台/支持条件：((x86 | x64) & (android | linux)) | (windows & !uwp)
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/m-/mfx-dispatch.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/m-/mfx-dispatch.json

@@ -6,7 +6,7 @@
 
 QtWayland is a Qt 5 module that wraps the functionality of Wayland.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -29,12 +29,11 @@ QtWayland is a Qt 5 module that wraps the functionality of Wayland.
 - 5.15.11
 - 5.15.10
 - 5.15.9
-- 共 18 条版本记录，完整清单见 vcpkg versions 文件。
+- 共 18 条 vcpkg 版本记录，完整清单见 vcpkg versions 文件。
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install qt5-wayland`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/qt5-wayland
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/qt5-wayland
 - 平台/支持条件：linux
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/q-/qt5-wayland.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/q-/qt5-wayland.json

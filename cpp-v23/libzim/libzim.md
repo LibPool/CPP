@@ -6,7 +6,7 @@
 
 The Libzim is the reference implementation for the ZIM file format. It's a software library to read and write ZIM files on many systems and architectures. More information about the ZIM format and the openZIM project at https://openzim.org/.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -34,8 +34,7 @@ The Libzim is the reference implementation for the ZIM file format. It's a softw
 ## 获取地址
 
 vcpkg 安装：`vcpkg install libzim`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libzim
-- 许可证：GPL-2.0-or-later
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libzim
+- vcpkg 许可证：GPL-2.0-or-later
 - 平台/支持条件：!android & !uwp & !xbox
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libzim.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libzim.json

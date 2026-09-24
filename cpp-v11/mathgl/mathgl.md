@@ -6,7 +6,7 @@
 
 MathGL is a free library of fast C++ routines for the plotting of the data varied in one or more dimensions
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -33,8 +33,7 @@ MathGL is a free library of fast C++ routines for the plotting of the data varie
 ## 获取地址
 
 vcpkg 安装：`vcpkg install mathgl`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/mathgl
-- 许可证：GPL-3.0-only
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/mathgl
+- vcpkg 许可证：GPL-3.0-only
 - 平台/支持条件：!uwp & !xbox & !android
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/m-/mathgl.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/m-/mathgl.json

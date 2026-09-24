@@ -6,7 +6,7 @@
 
 OpenCensus is a toolkit for collecting application performance and behavior data. It currently includes an API for tracing and stats.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,8 +23,7 @@ OpenCensus is a toolkit for collecting application performance and behavior data
 ## 获取地址
 
 vcpkg 安装：`vcpkg install opencensus-cpp`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/opencensus-cpp
-- 许可证：Apache-2.0
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/opencensus-cpp
+- vcpkg 许可证：Apache-2.0
 - 平台/支持条件：!windows
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/o-/opencensus-cpp.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/o-/opencensus-cpp.json

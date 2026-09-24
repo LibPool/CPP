@@ -6,7 +6,7 @@
 
 rtl-sdr is a library that turns your Realtek RTL2832 based DVB dongle into a SDR receiver
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,8 +23,7 @@ rtl-sdr is a library that turns your Realtek RTL2832 based DVB dongle into a SDR
 ## 获取地址
 
 vcpkg 安装：`vcpkg install rtlsdr`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/rtlsdr
-- 许可证：GPL-2.0-or-later
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/rtlsdr
+- vcpkg 许可证：GPL-2.0-or-later
 - 平台/支持条件：!uwp
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/r-/rtlsdr.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/r-/rtlsdr.json

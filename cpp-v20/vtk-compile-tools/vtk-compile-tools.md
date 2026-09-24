@@ -6,7 +6,7 @@
 
 Tools needed for crosscompiling VTK
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,7 +23,6 @@ Tools needed for crosscompiling VTK
 ## 获取地址
 
 vcpkg 安装：`vcpkg install vtk-compile-tools`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/vtk-compile-tools
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/vtk-compile-tools
 - 平台/支持条件：native
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/v-/vtk-compile-tools.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/v-/vtk-compile-tools.json

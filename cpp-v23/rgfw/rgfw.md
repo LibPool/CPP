@@ -6,7 +6,7 @@
 
 A cross platform lightweight single-header simple-to-use window abstraction library for creating graphical programs or libraries.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -24,7 +24,6 @@ A cross platform lightweight single-header simple-to-use window abstraction libr
 ## 获取地址
 
 vcpkg 安装：`vcpkg install rgfw`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/rgfw
-- 许可证：Zlib
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/r-/rgfw.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/rgfw
+- vcpkg 许可证：Zlib
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/r-/rgfw.json

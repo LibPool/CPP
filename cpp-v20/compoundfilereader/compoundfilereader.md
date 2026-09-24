@@ -6,7 +6,7 @@
 
 Simple standalone c++ header file to read compound file (Structured Storage File) content.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,6 +23,5 @@ Simple standalone c++ header file to read compound file (Structured Storage File
 ## 获取地址
 
 vcpkg 安装：`vcpkg install compoundfilereader`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/compoundfilereader
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/c-/compoundfilereader.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/compoundfilereader
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/c-/compoundfilereader.json

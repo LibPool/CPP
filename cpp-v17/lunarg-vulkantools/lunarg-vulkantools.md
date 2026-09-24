@@ -6,7 +6,7 @@
 
 Tools to aid in Vulkan development
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -30,12 +30,11 @@ Tools to aid in Vulkan development
 - 1.4.304.0
 - 1.3.296.0
 - 1.3.290.0
-- 共 15 条版本记录，完整清单见 vcpkg versions 文件。
+- 共 15 条 vcpkg 版本记录，完整清单见 vcpkg versions 文件。
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install lunarg-vulkantools`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/lunarg-vulkantools
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/lunarg-vulkantools
 - 平台/支持条件：!osx & !(static & staticcrt)
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/l-/lunarg-vulkantools.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/l-/lunarg-vulkantools.json

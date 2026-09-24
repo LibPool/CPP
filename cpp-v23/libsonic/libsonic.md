@@ -6,7 +6,7 @@
 
 Simple library to speed up or slow down speech
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,8 +23,7 @@ Simple library to speed up or slow down speech
 ## 获取地址
 
 vcpkg 安装：`vcpkg install libsonic`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libsonic
-- 许可证：Apache-2.0
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libsonic
+- vcpkg 许可证：Apache-2.0
 - 平台/支持条件：linux | osx
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libsonic.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libsonic.json

@@ -6,7 +6,7 @@
 
 General purpose Midi 2 library for bytestream conversions and midi-ci
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -31,7 +31,6 @@ General purpose Midi 2 library for bytestream conversions and midi-ci
 ## 获取地址
 
 vcpkg 安装：`vcpkg install libmidi2`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libmidi2
-- 许可证：MIT
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libmidi2.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libmidi2
+- vcpkg 许可证：MIT
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libmidi2.json

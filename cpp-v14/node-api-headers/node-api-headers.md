@@ -6,7 +6,7 @@
 
 NodeJS API for writing modules in C++
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -32,8 +32,7 @@ NodeJS API for writing modules in C++
 ## 获取地址
 
 vcpkg 安装：`vcpkg install node-api-headers`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/node-api-headers
-- 许可证：MIT
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/node-api-headers
+- vcpkg 许可证：MIT
 - 平台/支持条件：(windows & !arm & !uwp) | linux | osx
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/n-/node-api-headers.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/n-/node-api-headers.json

@@ -6,7 +6,7 @@
 
 An RFC5297-compliant C implementation of AES-SIV.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,7 +23,6 @@ An RFC5297-compliant C implementation of AES-SIV.
 ## 获取地址
 
 vcpkg 安装：`vcpkg install libaes-siv`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libaes-siv
-- 许可证：Apache-2.0
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libaes-siv.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libaes-siv
+- vcpkg 许可证：Apache-2.0
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libaes-siv.json

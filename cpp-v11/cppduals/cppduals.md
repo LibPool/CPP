@@ -7,7 +7,7 @@
 Header-only C++17 dual-number library for exact forward-mode automatic differentiation
 If you use this in research, please cite doi:10.21105/joss.01487 (Tesch, JOSS 4(43):1487, 2019).
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -26,8 +26,7 @@ If you use this in research, please cite doi:10.21105/joss.01487 (Tesch, JOSS 4(
 ## 获取地址
 
 vcpkg 安装：`vcpkg install cppduals`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/cppduals
-- 许可证：MPL-2.0
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/cppduals
+- vcpkg 许可证：MPL-2.0
 - 平台/支持条件：!uwp
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/c-/cppduals.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/c-/cppduals.json

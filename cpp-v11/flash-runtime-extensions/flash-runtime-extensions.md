@@ -6,7 +6,7 @@
 
 Adobe AIR Native Extension API for Windows/MacOS/Linux
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -24,7 +24,6 @@ Adobe AIR Native Extension API for Windows/MacOS/Linux
 ## 获取地址
 
 vcpkg 安装：`vcpkg install flash-runtime-extensions`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/flash-runtime-extensions
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/flash-runtime-extensions
 - 平台/支持条件：!(arm | uwp)
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/f-/flash-runtime-extensions.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/f-/flash-runtime-extensions.json

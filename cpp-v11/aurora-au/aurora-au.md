@@ -6,7 +6,7 @@
 
 A C++14-compatible physical units library with no dependencies and a single-file delivery option. Emphasis on safety, accessibility, performance, and developer experience.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,7 +23,6 @@ A C++14-compatible physical units library with no dependencies and a single-file
 ## 获取地址
 
 vcpkg 安装：`vcpkg install aurora-au`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/aurora-au
-- 许可证：Apache-2.0
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/a-/aurora-au.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/aurora-au
+- vcpkg 许可证：Apache-2.0
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/a-/aurora-au.json

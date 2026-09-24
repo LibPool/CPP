@@ -7,7 +7,7 @@
 Monkey's Audio is an excellent audio compression tool which has multiple advantages over traditional methods.
 Audio files compressed with it end with .ape extension.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -17,7 +17,7 @@ Audio files compressed with it end with .ape extension.
 
 ## 历史版本号
 
-- 当前版本：5.70#3#2
+- 当前版本：未知#2
 
 - 5.70#3
 - 5.70#2
@@ -25,7 +25,6 @@ Audio files compressed with it end with .ape extension.
 ## 获取地址
 
 vcpkg 安装：`vcpkg install monkeys-audio`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/monkeys-audio
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/monkeys-audio
 - 平台/支持条件：!(uwp | osx | linux)
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/m-/monkeys-audio.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/m-/monkeys-audio.json

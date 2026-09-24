@@ -6,7 +6,7 @@
 
 open source C library for quantum-safe cryptographic algorithms.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -24,8 +24,7 @@ open source C library for quantum-safe cryptographic algorithms.
 ## 获取地址
 
 vcpkg 安装：`vcpkg install liboqs`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/liboqs
-- 许可证：MIT
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/liboqs
+- vcpkg 许可证：MIT
 - 平台/支持条件：!uwp & !(windows & static)
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/l-/liboqs.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/l-/liboqs.json

@@ -6,7 +6,7 @@
 
 Next-gen C++ JSON/JSON5 Serialization Engine | Zero Dependency | Header-Only | Unleash JSON Potential
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -25,7 +25,6 @@ Next-gen C++ JSON/JSON5 Serialization Engine | Zero Dependency | Header-Only | U
 ## 获取地址
 
 vcpkg 安装：`vcpkg install meojson`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/meojson
-- 许可证：MIT
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/m-/meojson.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/meojson
+- vcpkg 许可证：MIT
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/m-/meojson.json

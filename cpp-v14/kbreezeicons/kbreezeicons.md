@@ -6,7 +6,7 @@
 
 Breeze icon theme for KDE Frameworks 6
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -30,8 +30,7 @@ Breeze icon theme for KDE Frameworks 6
 ## 获取地址
 
 vcpkg 安装：`vcpkg install kbreezeicons`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/kbreezeicons
-- 许可证：LGPL-2.1-or-later
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/kbreezeicons
+- vcpkg 许可证：LGPL-2.1-or-later
 - 平台/支持条件：!windows & !android
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/k-/kbreezeicons.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/k-/kbreezeicons.json

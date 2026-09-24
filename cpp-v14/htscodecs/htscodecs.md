@@ -6,7 +6,7 @@
 
 Custom compression for CRAM and others.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -28,7 +28,6 @@ Custom compression for CRAM and others.
 ## 获取地址
 
 vcpkg 安装：`vcpkg install htscodecs`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/htscodecs
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/htscodecs
 - 平台/支持条件：!windows
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/h-/htscodecs.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/h-/htscodecs.json

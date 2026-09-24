@@ -6,7 +6,7 @@
 
 Behavior Trees Library in C++.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -30,12 +30,11 @@ Behavior Trees Library in C++.
 - 4.6.2
 - 4.3.7
 - 4.1.1
-- 共 16 条版本记录，完整清单见 vcpkg versions 文件。
+- 共 16 条 vcpkg 版本记录，完整清单见 vcpkg versions 文件。
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install behaviortree-cpp`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/behaviortree-cpp
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/behaviortree-cpp
 - 平台/支持条件：!uwp
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/b-/behaviortree-cpp.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/b-/behaviortree-cpp.json

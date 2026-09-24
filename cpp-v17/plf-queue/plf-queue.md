@@ -6,7 +6,7 @@
 
 A data container replicating std::queue functionality but with better performance than standard library containers in a queue context. C++98/03/11/14/etc-compatible.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -24,7 +24,6 @@ A data container replicating std::queue functionality but with better performanc
 ## 获取地址
 
 vcpkg 安装：`vcpkg install plf-queue`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/plf-queue
-- 许可证：Zlib
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/p-/plf-queue.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/plf-queue
+- vcpkg 许可证：Zlib
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/p-/plf-queue.json

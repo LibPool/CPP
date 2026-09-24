@@ -6,7 +6,7 @@
 
 A tiny C++ library for parsing and encoding utf-8
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -24,6 +24,5 @@ A tiny C++ library for parsing and encoding utf-8
 ## 获取地址
 
 vcpkg 安装：`vcpkg install utfz`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/utfz
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/u-/utfz.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/utfz
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/u-/utfz.json

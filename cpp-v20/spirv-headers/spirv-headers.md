@@ -1,18 +1,22 @@
 # spirv-headers
 
-> 标签: c++, spirv-headers, vcpkg
+> 标签: MIT-KhronosGroup, c++, conan, spirv-headers, vcpkg
 
 ## 简介
 
 Machine-readable files for the SPIR-V Registry
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+Conan Center 收录：Header files for the SPIRV instruction set.
+
+本库来自 vcpkg 官方端口集、Conan Center 官方 recipe 集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
 - 官网：https://github.com/KhronosGroup/SPIRV-Headers
 - vcpkg 端口：https://vcpkg.io/en/packages/spirv-headers
 - vcpkg 源码：https://github.com/microsoft/vcpkg/tree/master/ports/spirv-headers
+- Conan Center：https://conan.io/center/recipes/spirv-headers
+- Conan recipe 源码：https://github.com/conan-io/conan-center-index/tree/master/recipes/spirv-headers
 
 ## 历史版本号
 
@@ -30,11 +34,15 @@ Machine-readable files for the SPIR-V Registry
 - 1.3.296.0#1
 - 1.3.296.0
 - 1.3.290.0
-- 共 20 条版本记录，完整清单见 vcpkg versions 文件。
+- 共 20 条 vcpkg 版本记录，完整清单见 vcpkg versions 文件。
+- Conan 1.4.357.0
+- Conan 1.4.313.0
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install spirv-headers`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/spirv-headers
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/s-/spirv-headers.json
+Conan 安装：`conan install --requires=spirv-headers/1.4.357.0`
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/spirv-headers
+- Conan 许可证：MIT-KhronosGroup
+- 版本记录：https://github.com/conan-io/conan-center-index/blob/master/recipes/spirv-headers/config.yml
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/s-/spirv-headers.json

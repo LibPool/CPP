@@ -6,7 +6,7 @@
 
 A simple, header-only command line parser for C++.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,7 +23,6 @@ A simple, header-only command line parser for C++.
 ## 获取地址
 
 vcpkg 安装：`vcpkg install tanakh-cmdline`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/tanakh-cmdline
-- 许可证：BSD-3-Clause
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/t-/tanakh-cmdline.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/tanakh-cmdline
+- vcpkg 许可证：BSD-3-Clause
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/t-/tanakh-cmdline.json

@@ -6,7 +6,7 @@
 
 Portable library for creating graphical user interfaces.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -30,12 +30,11 @@ Portable library for creating graphical user interfaces.
 - 3.24.43
 - 3.24.38#2
 - 3.24.38#1
-- 共 18 条版本记录，完整清单见 vcpkg versions 文件。
+- 共 18 条 vcpkg 版本记录，完整清单见 vcpkg versions 文件。
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install gtk3`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/gtk3
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/gtk3
 - 平台/支持条件：!android
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/g-/gtk3.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/g-/gtk3.json

@@ -6,7 +6,7 @@
 
 A header-only C++ benchmarking library with cross-platform hardware performance counter integration, providing precise measurements of cycles, instructions, branches, cache behavior, and throughput with minimal overhead.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -28,8 +28,7 @@ A header-only C++ benchmarking library with cross-platform hardware performance 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install rtc-benchmarksuite`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/rtc-benchmarksuite
-- 许可证：MIT
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/rtc-benchmarksuite
+- vcpkg 许可证：MIT
 - 平台/支持条件：(windows & x64 & !xbox) | (linux & x64) | (osx & x64)
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/r-/rtc-benchmarksuite.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/r-/rtc-benchmarksuite.json

@@ -6,7 +6,7 @@
 
 This project supports extending (hooking) unmanaged code (APIs) with pure managed ones, from within a fully managed environment on 32- or 64-bit Windows Vista x64, Windows Server 2008 x64, Windows 7, Windows 8.1, and Windows 10.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -33,7 +33,6 @@ This project supports extending (hooking) unmanaged code (APIs) with pure manage
 ## 获取地址
 
 vcpkg 安装：`vcpkg install easyhook`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/easyhook
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/easyhook
 - 平台/支持条件：windows & !static & !uwp & (x86 | x64)
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/e-/easyhook.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/e-/easyhook.json

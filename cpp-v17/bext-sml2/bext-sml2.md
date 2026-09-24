@@ -6,7 +6,7 @@
 
 Your scalable C++20 one header only State Machine Library with no dependencies
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,7 +23,6 @@ Your scalable C++20 one header only State Machine Library with no dependencies
 ## 获取地址
 
 vcpkg 安装：`vcpkg install bext-sml2`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/bext-sml2
-- 许可证：BSL-1.0
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/b-/bext-sml2.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/bext-sml2
+- vcpkg 许可证：BSL-1.0
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/b-/bext-sml2.json

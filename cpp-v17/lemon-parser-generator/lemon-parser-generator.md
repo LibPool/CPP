@@ -6,7 +6,7 @@
 
 The Lemon program is an LALR(1) parser generator. It takes a context free grammar and converts it into a subroutine that will parse a file using that grammar.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -25,8 +25,7 @@ The Lemon program is an LALR(1) parser generator. It takes a context free gramma
 ## 获取地址
 
 vcpkg 安装：`vcpkg install lemon-parser-generator`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/lemon-parser-generator
-- 许可证：blessing
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/lemon-parser-generator
+- vcpkg 许可证：blessing
 - 平台/支持条件：native
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/l-/lemon-parser-generator.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/l-/lemon-parser-generator.json

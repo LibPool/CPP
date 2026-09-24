@@ -6,7 +6,7 @@
 
 Extensible and configurable logging library for embedded and desktop applications with multi-output and logging topics
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -25,7 +25,6 @@ Extensible and configurable logging library for embedded and desktop application
 ## 获取地址
 
 vcpkg 安装：`vcpkg install microlog`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/microlog
-- 许可证：MIT
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/m-/microlog.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/microlog
+- vcpkg 许可证：MIT
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/m-/microlog.json

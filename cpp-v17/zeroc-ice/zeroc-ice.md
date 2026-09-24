@@ -6,7 +6,7 @@
 
 Comprehensive RPC framework with support for C++, CSharp, Java, JavaScript, Python and more.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -33,7 +33,6 @@ Comprehensive RPC framework with support for C++, CSharp, Java, JavaScript, Pyth
 ## 获取地址
 
 vcpkg 安装：`vcpkg install zeroc-ice`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/zeroc-ice
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/zeroc-ice
 - 平台/支持条件：!uwp & !(windows & arm) & !wasm32
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/z-/zeroc-ice.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/z-/zeroc-ice.json

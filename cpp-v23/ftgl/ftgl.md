@@ -8,7 +8,7 @@ FTGL is a free open source library to enable developers to use arbitrary fonts i
 Unlike other OpenGL font libraries FTGL uses standard font file formats so doesn't need a preprocessing step to convert the high quality font data into a lesser quality, proprietary format.
 FTGL uses the Freetype (www.freetype.org) font library to open and 'decode' the fonts. It then takes that output and stores it in a format most efficient for OpenGL rendering.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -27,7 +27,6 @@ FTGL uses the Freetype (www.freetype.org) font library to open and 'decode' the 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install ftgl`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/ftgl
-- 许可证：MIT
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/f-/ftgl.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/ftgl
+- vcpkg 许可证：MIT
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/f-/ftgl.json

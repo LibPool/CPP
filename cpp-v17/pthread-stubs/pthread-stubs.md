@@ -6,7 +6,7 @@
 
 Stub replacements for POSIX Threads functions.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -26,7 +26,6 @@ Stub replacements for POSIX Threads functions.
 ## 获取地址
 
 vcpkg 安装：`vcpkg install pthread-stubs`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/pthread-stubs
-- 许可证：X11-distribute-modifications-variant
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/p-/pthread-stubs.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/pthread-stubs
+- vcpkg 许可证：X11-distribute-modifications-variant
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/p-/pthread-stubs.json

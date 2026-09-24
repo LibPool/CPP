@@ -6,7 +6,7 @@
 
 A fast, compressed, persistent binary data store library for C.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -30,12 +30,11 @@ A fast, compressed, persistent binary data store library for C.
 - 2.23.1
 - 2.23.0
 - 2.22.0#1
-- 共 20 条版本记录，完整清单见 vcpkg versions 文件。
+- 共 20 条 vcpkg 版本记录，完整清单见 vcpkg versions 文件。
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install blosc2`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/blosc2
-- 许可证：BSD-3-Clause AND MIT AND BSD-2-Clause
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/b-/blosc2.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/blosc2
+- vcpkg 许可证：BSD-3-Clause AND MIT AND BSD-2-Clause
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/b-/blosc2.json

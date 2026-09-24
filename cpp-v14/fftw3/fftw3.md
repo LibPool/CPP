@@ -6,7 +6,7 @@
 
 FFTW is a C subroutine library for computing the discrete Fourier transform (DFT) in one or more dimensions, of arbitrary input size, and of both real and complex data (as well as of even/odd data, i.e. the discrete cosine/sine transforms or DCT/DST).
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -34,7 +34,6 @@ FFTW is a C subroutine library for computing the discrete Fourier transform (DFT
 ## 获取地址
 
 vcpkg 安装：`vcpkg install fftw3`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/fftw3
-- 许可证：GPL-2.0-or-later
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/f-/fftw3.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/fftw3
+- vcpkg 许可证：GPL-2.0-or-later
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/f-/fftw3.json

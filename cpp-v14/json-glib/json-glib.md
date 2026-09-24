@@ -6,7 +6,7 @@
 
 Implements a full JSON parser and generator using GLib and GObject, and integrates JSON with GLib data types.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -25,7 +25,6 @@ Implements a full JSON parser and generator using GLib and GObject, and integrat
 ## 获取地址
 
 vcpkg 安装：`vcpkg install json-glib`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/json-glib
-- 许可证：LGPL-2.1-or-later AND CC0-1.0 AND MIT
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/j-/json-glib.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/json-glib
+- vcpkg 许可证：LGPL-2.1-or-later AND CC0-1.0 AND MIT
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/j-/json-glib.json

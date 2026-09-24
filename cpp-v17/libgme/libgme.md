@@ -6,7 +6,7 @@
 
 Video game music file emulation/playback library
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -24,7 +24,6 @@ Video game music file emulation/playback library
 ## 获取地址
 
 vcpkg 安装：`vcpkg install libgme`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libgme
-- 许可证：LGPL-2.1-or-later OR GPL-2.0-or-later
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libgme.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libgme
+- vcpkg 许可证：LGPL-2.1-or-later OR GPL-2.0-or-later
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libgme.json

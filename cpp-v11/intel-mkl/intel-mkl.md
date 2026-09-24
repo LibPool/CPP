@@ -6,7 +6,7 @@
 
 Intel® Math Kernel Library (Intel® MKL) accelerates math processing routines, increases application performance, and reduces development time on Intel® processors.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -32,7 +32,6 @@ Intel® Math Kernel Library (Intel® MKL) accelerates math processing routines, 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install intel-mkl`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/intel-mkl
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/intel-mkl
 - 平台/支持条件：(windows | linux) & x64
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/i-/intel-mkl.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/i-/intel-mkl.json

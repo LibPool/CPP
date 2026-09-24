@@ -6,7 +6,7 @@
 
 Fast function to parse strings into double (binary64) floating-point values, enforces the RFC 7159 (JSON standard) grammar: 4x faster than strtod
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -25,7 +25,6 @@ Fast function to parse strings into double (binary64) floating-point values, enf
 ## 获取地址
 
 vcpkg 安装：`vcpkg install fast-double-parser`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/fast-double-parser
-- 许可证：Apache-2.0
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/f-/fast-double-parser.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/fast-double-parser
+- vcpkg 许可证：Apache-2.0
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/f-/fast-double-parser.json

@@ -6,7 +6,7 @@
 
 The Qt Image Formats add-on module provides optional support for other image file formats.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -29,11 +29,10 @@ The Qt Image Formats add-on module provides optional support for other image fil
 - 5.15.12
 - 5.15.11
 - 5.15.10
-- 共 25 条版本记录，完整清单见 vcpkg versions 文件。
+- 共 25 条 vcpkg 版本记录，完整清单见 vcpkg versions 文件。
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install qt5-imageformats`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/qt5-imageformats
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/q-/qt5-imageformats.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/qt5-imageformats
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/q-/qt5-imageformats.json

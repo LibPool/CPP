@@ -6,7 +6,7 @@
 
 Tools and libraries to work with AppStream metadata
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -25,7 +25,6 @@ Tools and libraries to work with AppStream metadata
 ## 获取地址
 
 vcpkg 安装：`vcpkg install appstream`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/appstream
-- 许可证：LGPL-2.1-or-later
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/a-/appstream.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/appstream
+- vcpkg 许可证：LGPL-2.1-or-later
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/a-/appstream.json

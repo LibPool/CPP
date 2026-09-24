@@ -6,7 +6,7 @@
 
 A C++ library for interfacing with the MultiSense S family of sensors from Carnegie Robotics.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -28,6 +28,5 @@ A C++ library for interfacing with the MultiSense S family of sensors from Carne
 ## 获取地址
 
 vcpkg 安装：`vcpkg install libmultisense`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libmultisense
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libmultisense.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libmultisense
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libmultisense.json

@@ -6,7 +6,7 @@
 
 Modern C++20/C++26 high-performance web framework based on Boost.Asio with native HTTP/WebSocket stack
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -30,13 +30,12 @@ Modern C++20/C++26 high-performance web framework based on Boost.Asio with nativ
 - 2.4.0
 - 2.2.0
 - 2.1.0
-- 共 15 条版本记录，完整清单见 vcpkg versions 文件。
+- 共 15 条 vcpkg 版本记录，完整清单见 vcpkg versions 文件。
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install hical61-hical`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/hical61-hical
-- 许可证：MIT
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/hical61-hical
+- vcpkg 许可证：MIT
 - 平台/支持条件：!uwp & !xbox & !android & !emscripten
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/h-/hical61-hical.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/h-/hical61-hical.json

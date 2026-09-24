@@ -6,7 +6,7 @@
 
 Halide is a programming language designed to make it easier to write high-performance image and array processing code on modern machines.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -30,13 +30,12 @@ Halide is a programming language designed to make it easier to write high-perfor
 - 14.0.0#1
 - 14.0.0
 - 13.0.2
-- 共 14 条版本记录，完整清单见 vcpkg versions 文件。
+- 共 14 条 vcpkg 版本记录，完整清单见 vcpkg versions 文件。
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install halide`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/halide
-- 许可证：MIT
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/halide
+- vcpkg 许可证：MIT
 - 平台/支持条件：!uwp
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/h-/halide.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/h-/halide.json

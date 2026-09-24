@@ -6,7 +6,7 @@
 
 an implementation of the line breaking and word breaking algorithms as described in [Unicode Standard Annex 14] 1 and [Unicode Standard Annex 29] 2. Check the project's [home page] 3 for up-to-date information.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -28,7 +28,6 @@ an implementation of the line breaking and word breaking algorithms as described
 ## 获取地址
 
 vcpkg 安装：`vcpkg install libunibreak`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libunibreak
-- 许可证：zlib-acknowledgement
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libunibreak.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libunibreak
+- vcpkg 许可证：zlib-acknowledgement
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libunibreak.json

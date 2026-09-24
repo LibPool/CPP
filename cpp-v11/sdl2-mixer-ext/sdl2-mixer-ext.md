@@ -6,7 +6,7 @@
 
 An audio mixer library based on the SDL library, a fork of SDL_mixer
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -24,7 +24,6 @@ An audio mixer library based on the SDL library, a fork of SDL_mixer
 ## 获取地址
 
 vcpkg 安装：`vcpkg install sdl2-mixer-ext`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/sdl2-mixer-ext
-- 许可证：Zlib OR LGPL-2.1-or-later OR GPL-2.0-or-later OR GPL-3.0-or-later
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/s-/sdl2-mixer-ext.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/sdl2-mixer-ext
+- vcpkg 许可证：Zlib OR LGPL-2.1-or-later OR GPL-2.0-or-later OR GPL-3.0-or-later
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/s-/sdl2-mixer-ext.json

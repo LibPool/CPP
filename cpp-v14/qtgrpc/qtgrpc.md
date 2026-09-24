@@ -6,7 +6,7 @@
 
 The Qt GRPC and Qt Protobuf modules together allow you to define data and messages in proto files, and then use the code generators, which generate client code allowing accessors for fields and gRPC services in the Qt framework.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -30,11 +30,10 @@ The Qt GRPC and Qt Protobuf modules together allow you to define data and messag
 - 6.9.0
 - 6.8.3
 - 6.8.2
-- 共 26 条版本记录，完整清单见 vcpkg versions 文件。
+- 共 26 条 vcpkg 版本记录，完整清单见 vcpkg versions 文件。
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install qtgrpc`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/qtgrpc
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/q-/qtgrpc.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/qtgrpc
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/q-/qtgrpc.json

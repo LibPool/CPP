@@ -6,7 +6,7 @@
 
 The getopt and getopt_long functions automate some of the chore involved in parsing typical unix command line options.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -22,7 +22,6 @@ The getopt and getopt_long functions automate some of the chore involved in pars
 ## 获取地址
 
 vcpkg 安装：`vcpkg install getopt`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/getopt
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/getopt
 - 平台/支持条件：!uwp
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/g-/getopt.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/g-/getopt.json

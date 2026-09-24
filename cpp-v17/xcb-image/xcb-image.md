@@ -6,7 +6,7 @@
 
 XCB port of Xlib's XImage and XShmImage functions.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -25,6 +25,5 @@ XCB port of Xlib's XImage and XShmImage functions.
 ## 获取地址
 
 vcpkg 安装：`vcpkg install xcb-image`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/xcb-image
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/x-/xcb-image.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/xcb-image
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/x-/xcb-image.json

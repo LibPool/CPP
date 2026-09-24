@@ -6,7 +6,7 @@
 
 Metaport to install gfortran dependencies from msys if VCPKG_USE_EXTERNAL_Fortran is false
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,7 +23,6 @@ Metaport to install gfortran dependencies from msys if VCPKG_USE_EXTERNAL_Fortra
 ## 获取地址
 
 vcpkg 安装：`vcpkg install vcpkg-gfortran`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/vcpkg-gfortran
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/vcpkg-gfortran
 - 平台/支持条件：windows & !arm & !uwp
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/v-/vcpkg-gfortran.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/v-/vcpkg-gfortran.json

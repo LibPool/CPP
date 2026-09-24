@@ -6,7 +6,7 @@
 
 Light and self-contained implementation of C++17 parallel algorithms.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,7 +23,6 @@ Light and self-contained implementation of C++17 parallel algorithms.
 ## 获取地址
 
 vcpkg 安装：`vcpkg install poolstl`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/poolstl
-- 许可证：BSD-2-Clause OR BSL-1.0 OR MIT
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/p-/poolstl.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/poolstl
+- vcpkg 许可证：BSD-2-Clause OR BSL-1.0 OR MIT
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/p-/poolstl.json

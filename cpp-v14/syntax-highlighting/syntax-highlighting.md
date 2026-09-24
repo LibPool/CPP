@@ -6,7 +6,7 @@
 
 Syntax highlighting engine for Kate syntax definitions
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -28,7 +28,6 @@ Syntax highlighting engine for Kate syntax definitions
 ## 获取地址
 
 vcpkg 安装：`vcpkg install syntax-highlighting`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/syntax-highlighting
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/syntax-highlighting
 - 平台/支持条件：!android & !(windows & arm64)
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/s-/syntax-highlighting.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/s-/syntax-highlighting.json

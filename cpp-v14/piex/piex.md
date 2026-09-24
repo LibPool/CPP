@@ -6,7 +6,7 @@
 
 The Preview Image Extractor (PIEX) is designed to find and extract the largest
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,6 +23,5 @@ The Preview Image Extractor (PIEX) is designed to find and extract the largest
 ## 获取地址
 
 vcpkg 安装：`vcpkg install piex`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/piex
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/p-/piex.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/piex
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/p-/piex.json

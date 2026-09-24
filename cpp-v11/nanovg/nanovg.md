@@ -6,7 +6,7 @@
 
 NanoVG is small antialiased vector graphics rendering library for OpenGL.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,8 +23,7 @@ NanoVG is small antialiased vector graphics rendering library for OpenGL.
 ## 获取地址
 
 vcpkg 安装：`vcpkg install nanovg`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/nanovg
-- 许可证：Zlib
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/nanovg
+- vcpkg 许可证：Zlib
 - 平台/支持条件：!uwp
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/n-/nanovg.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/n-/nanovg.json

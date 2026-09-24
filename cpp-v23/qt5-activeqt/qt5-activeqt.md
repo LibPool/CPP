@@ -6,7 +6,7 @@
 
 Active Qt is a helper framework that enables the developer to access and use ActiveX controls and COM objects provided by any ActiveX server. It also makes it possible to make the developer's own Qt applications available as COM servers on Windows.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -29,12 +29,11 @@ Active Qt is a helper framework that enables the developer to access and use Act
 - 5.15.11
 - 5.15.10
 - 5.15.9
-- 共 18 条版本记录，完整清单见 vcpkg versions 文件。
+- 共 18 条 vcpkg 版本记录，完整清单见 vcpkg versions 文件。
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install qt5-activeqt`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/qt5-activeqt
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/qt5-activeqt
 - 平台/支持条件：windows
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/q-/qt5-activeqt.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/q-/qt5-activeqt.json

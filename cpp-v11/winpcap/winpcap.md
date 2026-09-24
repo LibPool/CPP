@@ -6,7 +6,7 @@
 
 WinPcap is the industry-standard tool for link-layer network access in Windows environments.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -29,7 +29,6 @@ WinPcap is the industry-standard tool for link-layer network access in Windows e
 ## 获取地址
 
 vcpkg 安装：`vcpkg install winpcap`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/winpcap
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/winpcap
 - 平台/支持条件：windows & !uwp & !arm & !static
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/w-/winpcap.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/w-/winpcap.json

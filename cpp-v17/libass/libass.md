@@ -6,7 +6,7 @@
 
 libass is a portable subtitle renderer for the ASS/SSA (Advanced Substation Alpha/Substation Alpha) subtitle format
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -32,7 +32,6 @@ libass is a portable subtitle renderer for the ASS/SSA (Advanced Substation Alph
 ## 获取地址
 
 vcpkg 安装：`vcpkg install libass`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libass
-- 许可证：ISC
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libass.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libass
+- vcpkg 许可证：ISC
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libass.json

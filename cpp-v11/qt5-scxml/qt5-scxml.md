@@ -6,7 +6,7 @@
 
 The Qt SCXML module provides classes for embedding state machines created from State Chart XML (SCXML) files in Qt applications.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -29,11 +29,10 @@ The Qt SCXML module provides classes for embedding state machines created from S
 - 5.15.11
 - 5.15.10
 - 5.15.9
-- 共 18 条版本记录，完整清单见 vcpkg versions 文件。
+- 共 18 条 vcpkg 版本记录，完整清单见 vcpkg versions 文件。
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install qt5-scxml`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/qt5-scxml
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/q-/qt5-scxml.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/qt5-scxml
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/q-/qt5-scxml.json

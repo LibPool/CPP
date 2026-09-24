@@ -6,7 +6,7 @@
 
 OpenMAMA is a high performance vendor neutral lightweight wrapper that provides a common API interface to different middleware and messaging solutions across a variety of platforms and languages
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,8 +23,7 @@ OpenMAMA is a high performance vendor neutral lightweight wrapper that provides 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install openmama`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/openmama
-- 许可证：LGPL-2.1
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/openmama
+- vcpkg 许可证：LGPL-2.1
 - 平台/支持条件：!xbox
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/o-/openmama.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/o-/openmama.json

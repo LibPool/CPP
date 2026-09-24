@@ -6,7 +6,7 @@
 
 Multi-channel audio mixer library for SDL.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -30,12 +30,11 @@ Multi-channel audio mixer library for SDL.
 - 2.6.3#1
 - 2.6.3
 - 2.6.1#2
-- 共 20 条版本记录，完整清单见 vcpkg versions 文件。
+- 共 20 条 vcpkg 版本记录，完整清单见 vcpkg versions 文件。
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install sdl2-mixer`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/sdl2-mixer
-- 许可证：Zlib
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/s-/sdl2-mixer.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/sdl2-mixer
+- vcpkg 许可证：Zlib
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/s-/sdl2-mixer.json

@@ -6,7 +6,7 @@
 
 LibAiff is an open-source library, providing C applications transparent read & write operations for Audio Interchange File Format (AIFF) files, with the goal of supporting all of its features
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -25,6 +25,5 @@ LibAiff is an open-source library, providing C applications transparent read & w
 ## 获取地址
 
 vcpkg 安装：`vcpkg install libaiff`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libaiff
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libaiff.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libaiff
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libaiff.json

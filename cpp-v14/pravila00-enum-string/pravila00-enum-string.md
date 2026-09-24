@@ -6,7 +6,7 @@
 
 A utility to provide stringizing support for C++ enums.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,7 +23,6 @@ A utility to provide stringizing support for C++ enums.
 ## 获取地址
 
 vcpkg 安装：`vcpkg install pravila00-enum-string`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/pravila00-enum-string
-- 许可证：Unlicense
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/p-/pravila00-enum-string.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/pravila00-enum-string
+- vcpkg 许可证：Unlicense
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/p-/pravila00-enum-string.json

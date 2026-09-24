@@ -6,7 +6,7 @@
 
 Header-only C++17 library provides a string class with std::array fixed-size semantic.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,7 +23,6 @@ Header-only C++17 library provides a string class with std::array fixed-size sem
 ## 获取地址
 
 vcpkg 安装：`vcpkg install fixed-string`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/fixed-string
-- 许可证：MIT
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/f-/fixed-string.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/fixed-string
+- vcpkg 许可证：MIT
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/f-/fixed-string.json

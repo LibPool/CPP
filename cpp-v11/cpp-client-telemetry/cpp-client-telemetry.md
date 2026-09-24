@@ -6,7 +6,7 @@
 
 Microsoft 1DS C/C++ Client Telemetry Library
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -25,8 +25,7 @@ Microsoft 1DS C/C++ Client Telemetry Library
 ## 获取地址
 
 vcpkg 安装：`vcpkg install cpp-client-telemetry`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/cpp-client-telemetry
-- 许可证：Apache-2.0
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/cpp-client-telemetry
+- vcpkg 许可证：Apache-2.0
 - 平台/支持条件：((windows & !mingw) | linux | osx | ios | android) & !uwp
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/c-/cpp-client-telemetry.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/c-/cpp-client-telemetry.json

@@ -6,7 +6,7 @@
 
 KDStateMachineEditor is a library for visualizing and editing state charts.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -25,7 +25,6 @@ KDStateMachineEditor is a library for visualizing and editing state charts.
 ## 获取地址
 
 vcpkg 安装：`vcpkg install kdstatemachineeditor`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/kdstatemachineeditor
-- 许可证：LGPL-2.1-only
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/k-/kdstatemachineeditor.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/kdstatemachineeditor
+- vcpkg 许可证：LGPL-2.1-only
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/k-/kdstatemachineeditor.json

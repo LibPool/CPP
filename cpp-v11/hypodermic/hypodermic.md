@@ -6,7 +6,7 @@
 
 Hypodermic is a non-intrusive header only IoC container for C++
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -16,14 +16,13 @@ Hypodermic is a non-intrusive header only IoC container for C++
 
 ## 历史版本号
 
-- 当前版本：2.5.3
+- 当前版本：未知
 
 - 2.5.3
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install hypodermic`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/hypodermic
-- 许可证：MIT
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/h-/hypodermic.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/hypodermic
+- vcpkg 许可证：MIT
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/h-/hypodermic.json

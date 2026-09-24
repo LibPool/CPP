@@ -7,7 +7,7 @@
 The C++ Standards Library for Concurrency and Parallelism
 HPX is a C++ Standards Library for Concurrency and Parallelism. It implements all of the corresponding facilities as defined by the C++ Standard. Additionally, in HPX we implement functionalities proposed as part of the ongoing C++ standardization process. We also extend the C++ Standard APIs to the distributed case.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -32,8 +32,7 @@ HPX is a C++ Standards Library for Concurrency and Parallelism. It implements al
 ## 获取地址
 
 vcpkg 安装：`vcpkg install hpx`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/hpx
-- 许可证：BSL-1.0
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/hpx
+- vcpkg 许可证：BSL-1.0
 - 平台/支持条件：!(windows & arm64) & !(windows & staticcrt)
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/h-/hpx.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/h-/hpx.json

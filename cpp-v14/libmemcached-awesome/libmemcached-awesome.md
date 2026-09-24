@@ -6,7 +6,7 @@
 
 Open source C/C++ client library and tools for the memcached server
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,8 +23,7 @@ Open source C/C++ client library and tools for the memcached server
 ## 获取地址
 
 vcpkg 安装：`vcpkg install libmemcached-awesome`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libmemcached-awesome
-- 许可证：BSD-3-Clause
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libmemcached-awesome
+- vcpkg 许可证：BSD-3-Clause
 - 平台/支持条件：!uwp
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libmemcached-awesome.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libmemcached-awesome.json

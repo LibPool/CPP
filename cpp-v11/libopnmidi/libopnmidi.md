@@ -6,7 +6,7 @@
 
 libOPNMIDI is a free Software MIDI synthesizer library with OPN2 (YM2612) and OPNA (YM2608) emulation
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -25,7 +25,6 @@ libOPNMIDI is a free Software MIDI synthesizer library with OPN2 (YM2612) and OP
 ## 获取地址
 
 vcpkg 安装：`vcpkg install libopnmidi`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libopnmidi
-- 许可证：LGPL-2.1-or-later OR GPL-2.0-or-later OR GPL-3.0-or-later OR MIT
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libopnmidi.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libopnmidi
+- vcpkg 许可证：LGPL-2.1-or-later OR GPL-2.0-or-later OR GPL-3.0-or-later OR MIT
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libopnmidi.json

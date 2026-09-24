@@ -6,7 +6,7 @@
 
 Rich Presence allows you to leverage the totally overhauled "Now Playing" section in a Discord user's profile to help people play your game together.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -24,7 +24,6 @@ Rich Presence allows you to leverage the totally overhauled "Now Playing" sectio
 ## 获取地址
 
 vcpkg 安装：`vcpkg install discord-rpc`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/discord-rpc
-- 许可证：MIT
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/d-/discord-rpc.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/discord-rpc
+- vcpkg 许可证：MIT
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/d-/discord-rpc.json

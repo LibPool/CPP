@@ -1,18 +1,22 @@
 # brynet
 
-> 标签: brynet, c++, vcpkg
+> 标签: MIT, brynet, c++, conan, vcpkg
 
 ## 简介
 
 A C++ header only cross platform high performance tcp network library, and support SSL/HTTP/Websocket.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+Conan Center 收录：Header Only Cross platform high performance TCP network library using C++ 11.
+
+本库来自 vcpkg 官方端口集、Conan Center 官方 recipe 集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
 - 官网：https://github.com/IronsDu/brynet
 - vcpkg 端口：https://vcpkg.io/en/packages/brynet
 - vcpkg 源码：https://github.com/microsoft/vcpkg/tree/master/ports/brynet
+- Conan Center：https://conan.io/center/recipes/brynet
+- Conan recipe 源码：https://github.com/conan-io/conan-center-index/tree/master/recipes/brynet
 
 ## 历史版本号
 
@@ -21,10 +25,16 @@ A C++ header only cross platform high performance tcp network library, and suppo
 - 1.12.2
 - 1.12.1
 - 1.11.2
+- Conan 1.12.2
+- Conan 1.12.1
+- Conan 1.11.1
+- Conan 1.11.0
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install brynet`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/brynet
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/b-/brynet.json
+Conan 安装：`conan install --requires=brynet/1.12.2`
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/brynet
+- Conan 许可证：MIT
+- 版本记录：https://github.com/conan-io/conan-center-index/blob/master/recipes/brynet/config.yml
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/b-/brynet.json

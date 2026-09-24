@@ -6,7 +6,7 @@
 
 X BitMap (XBM) format bitmaps commonly used in X.Org applications
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -26,6 +26,5 @@ X BitMap (XBM) format bitmaps commonly used in X.Org applications
 ## 获取地址
 
 vcpkg 安装：`vcpkg install xbitmaps`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/xbitmaps
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/x-/xbitmaps.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/xbitmaps
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/x-/xbitmaps.json

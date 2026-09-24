@@ -6,7 +6,7 @@
 
 SRELL (std::regex-like library) is a regular expression template library for C++.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,7 +23,6 @@ SRELL (std::regex-like library) is a regular expression template library for C++
 ## 获取地址
 
 vcpkg 安装：`vcpkg install srell`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/srell
-- 许可证：BSD-2-Clause AND Unicode-3.0
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/s-/srell.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/srell
+- vcpkg 许可证：BSD-2-Clause AND Unicode-3.0
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/s-/srell.json

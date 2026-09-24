@@ -6,7 +6,7 @@
 
 Rapid YAML library
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -30,12 +30,11 @@ Rapid YAML library
 - 0.8.0
 - 0.7.2
 - 0.5.0#1
-- 共 14 条版本记录，完整清单见 vcpkg versions 文件。
+- 共 14 条 vcpkg 版本记录，完整清单见 vcpkg versions 文件。
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install ryml`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/ryml
-- 许可证：MIT
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/r-/ryml.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/ryml
+- vcpkg 许可证：MIT
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/r-/ryml.json

@@ -6,7 +6,7 @@
 
 Fast, Super Slim, Embeddable, Headers only C++11 vector graphics library, that can run on any 32/64 bits computer without FPU or GPU. No standard library required.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,6 +23,5 @@ Fast, Super Slim, Embeddable, Headers only C++11 vector graphics library, that c
 ## 获取地址
 
 vcpkg 安装：`vcpkg install micro-gl`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/micro-gl
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/m-/micro-gl.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/micro-gl
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/m-/micro-gl.json

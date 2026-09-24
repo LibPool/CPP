@@ -6,7 +6,7 @@
 
 Microsoft Game Development Kit (GDK)
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -30,12 +30,11 @@ Microsoft Game Development Kit (GDK)
 - 2504.3.4084
 - 2504.2.4061#1
 - 2504.2.4061
-- 共 16 条版本记录，完整清单见 vcpkg versions 文件。
+- 共 16 条 vcpkg 版本记录，完整清单见 vcpkg versions 文件。
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install ms-gdk`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/ms-gdk
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/ms-gdk
 - 平台/支持条件：windows & (x64 | arm64) & !uwp & !xbox & !staticcrt
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/m-/ms-gdk.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/m-/ms-gdk.json

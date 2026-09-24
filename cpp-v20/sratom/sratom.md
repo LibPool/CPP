@@ -6,7 +6,7 @@
 
 Sratom is a library for serialising LV2 atoms to and from RDF, particularly the Turtle syntax.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -28,7 +28,6 @@ Sratom is a library for serialising LV2 atoms to and from RDF, particularly the 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install sratom`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/sratom
-- 许可证：ISC
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/s-/sratom.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/sratom
+- vcpkg 许可证：ISC
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/s-/sratom.json

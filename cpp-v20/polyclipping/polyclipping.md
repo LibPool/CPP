@@ -6,7 +6,7 @@
 
 The Clipper library performs clipping and offsetting for both lines and polygons. All four boolean clipping operations are supported - intersection, union, difference and exclusive-or. Polygons can be of any shape including self-intersecting polygons.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -24,7 +24,6 @@ The Clipper library performs clipping and offsetting for both lines and polygons
 ## 获取地址
 
 vcpkg 安装：`vcpkg install polyclipping`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/polyclipping
-- 许可证：BSL-1.0
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/p-/polyclipping.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/polyclipping
+- vcpkg 许可证：BSL-1.0
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/p-/polyclipping.json

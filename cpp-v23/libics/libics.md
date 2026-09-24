@@ -6,7 +6,7 @@
 
 Reference library for ICS (Image Cytometry Standard), an open standard for writing images of any dimensionality and data type to file, together with associated information regarding the recording equipment or recorded subject.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -26,6 +26,5 @@ Reference library for ICS (Image Cytometry Standard), an open standard for writi
 ## 获取地址
 
 vcpkg 安装：`vcpkg install libics`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libics
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libics.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libics
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libics.json

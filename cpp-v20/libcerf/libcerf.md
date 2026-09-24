@@ -6,7 +6,7 @@
 
 A self-contained numeric library that provides an efficient and accurate implementation of complex error functions, along with Dawson, Faddeeva, and Voigt functions.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -25,6 +25,5 @@ A self-contained numeric library that provides an efficient and accurate impleme
 ## 获取地址
 
 vcpkg 安装：`vcpkg install libcerf`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libcerf
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libcerf.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libcerf
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libcerf.json

@@ -6,7 +6,7 @@
 
 Qt Base provides the basic non-GUI functionality required by all Qt applications.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -30,11 +30,10 @@ Qt Base provides the basic non-GUI functionality required by all Qt applications
 - 5.15.16#5
 - 5.15.16#4
 - 5.15.16#3
-- 共 60 条版本记录，完整清单见 vcpkg versions 文件。
+- 共 60 条 vcpkg 版本记录，完整清单见 vcpkg versions 文件。
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install qt5-base`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/qt5-base
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/q-/qt5-base.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/qt5-base
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/q-/qt5-base.json

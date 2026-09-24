@@ -6,7 +6,7 @@
 
 Electronic Arts Thread Library. EAThread implements a unified cross-platform interface for multithreaded programming on various platforms.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,7 +23,6 @@ Electronic Arts Thread Library. EAThread implements a unified cross-platform int
 ## 获取地址
 
 vcpkg 安装：`vcpkg install eathread`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/eathread
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/eathread
 - 平台/支持条件：!uwp & x64
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/e-/eathread.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/e-/eathread.json

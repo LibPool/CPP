@@ -6,7 +6,7 @@
 
 NVIDIA Rendering Hardware Interface abstraction layer for D3D11, D3D12, and Vulkan
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,8 +23,7 @@ NVIDIA Rendering Hardware Interface abstraction layer for D3D11, D3D12, and Vulk
 ## 获取地址
 
 vcpkg 安装：`vcpkg install nvrhi`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/nvrhi
-- 许可证：MIT
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/nvrhi
+- vcpkg 许可证：MIT
 - 平台/支持条件：(windows & x64 & !uwp & !xbox) | (linux & (x64 | arm64))
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/n-/nvrhi.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/n-/nvrhi.json

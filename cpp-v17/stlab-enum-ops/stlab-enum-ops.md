@@ -6,7 +6,7 @@
 
 Type-safe bitmask and arithmetic operators for enum types.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,7 +23,6 @@ Type-safe bitmask and arithmetic operators for enum types.
 ## 获取地址
 
 vcpkg 安装：`vcpkg install stlab-enum-ops`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/stlab-enum-ops
-- 许可证：BSL-1.0
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/s-/stlab-enum-ops.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/stlab-enum-ops
+- vcpkg 许可证：BSL-1.0
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/s-/stlab-enum-ops.json

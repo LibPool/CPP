@@ -6,7 +6,7 @@
 
 The Advanced Linux Sound Architecture (ALSA) - library
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -30,13 +30,12 @@ The Advanced Linux Sound Architecture (ALSA) - library
 - 1.2.10
 - 1.2.8#1
 - 1.2.8
-- 共 16 条版本记录，完整清单见 vcpkg versions 文件。
+- 共 16 条 vcpkg 版本记录，完整清单见 vcpkg versions 文件。
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install alsa`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/alsa
-- 许可证：LGPL-2.1-or-later
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/alsa
+- vcpkg 许可证：LGPL-2.1-or-later
 - 平台/支持条件：linux | android
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/a-/alsa.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/a-/alsa.json

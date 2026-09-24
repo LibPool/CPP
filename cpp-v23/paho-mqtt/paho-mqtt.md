@@ -6,7 +6,7 @@
 
 Paho project provides open-source client implementations of MQTT and MQTT-SN messaging protocols aimed at new, existing, and emerging applications for the Internet of Things
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -29,7 +29,6 @@ Paho project provides open-source client implementations of MQTT and MQTT-SN mes
 ## 获取地址
 
 vcpkg 安装：`vcpkg install paho-mqtt`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/paho-mqtt
-- 许可证：EPL-2.0
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/p-/paho-mqtt.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/paho-mqtt
+- vcpkg 许可证：EPL-2.0
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/p-/paho-mqtt.json

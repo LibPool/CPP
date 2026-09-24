@@ -6,7 +6,7 @@
 
 CXSparse: Software package for permuting a matrix into block upper triangular form in SuiteSparse
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,7 +23,6 @@ CXSparse: Software package for permuting a matrix into block upper triangular fo
 ## 获取地址
 
 vcpkg 安装：`vcpkg install suitesparse-cxsparse`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/suitesparse-cxsparse
-- 许可证：LGPL-2.1-or-later
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/s-/suitesparse-cxsparse.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/suitesparse-cxsparse
+- vcpkg 许可证：LGPL-2.1-or-later
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/s-/suitesparse-cxsparse.json

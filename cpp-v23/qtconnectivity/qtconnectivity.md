@@ -6,7 +6,7 @@
 
 The Qt Connectivity module provides access to Bluetooth and NFC hardware.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -30,11 +30,10 @@ The Qt Connectivity module provides access to Bluetooth and NFC hardware.
 - 6.9.2
 - 6.9.1
 - 6.9.0
-- 共 38 条版本记录，完整清单见 vcpkg versions 文件。
+- 共 38 条 vcpkg 版本记录，完整清单见 vcpkg versions 文件。
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install qtconnectivity`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/qtconnectivity
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/q-/qtconnectivity.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/qtconnectivity
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/q-/qtconnectivity.json

@@ -6,7 +6,7 @@
 
 APSI is a research library for asymmetric private set intersection.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,7 +23,6 @@ APSI is a research library for asymmetric private set intersection.
 ## 获取地址
 
 vcpkg 安装：`vcpkg install apsi`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/apsi
-- 许可证：MIT AND Zlib
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/a-/apsi.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/apsi
+- vcpkg 许可证：MIT AND Zlib
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/a-/apsi.json

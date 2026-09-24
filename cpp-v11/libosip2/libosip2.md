@@ -6,7 +6,7 @@
 
 oSIP is an LGPL implementation of SIP. It's stable, portable, flexible and compliant! -may be more-! It is used mostly with eXosip2 stack (GPL) which provides simpler API for User-Agent implementation.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -32,7 +32,6 @@ oSIP is an LGPL implementation of SIP. It's stable, portable, flexible and compl
 ## 获取地址
 
 vcpkg 安装：`vcpkg install libosip2`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libosip2
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libosip2
 - 平台/支持条件：!(windows & arm) & !uwp
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libosip2.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libosip2.json

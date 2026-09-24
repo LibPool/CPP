@@ -6,7 +6,7 @@
 
 The LZF filter is an alternative DEFLATE-style compressor for HDF5 datasets.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -25,7 +25,6 @@ The LZF filter is an alternative DEFLATE-style compressor for HDF5 datasets.
 ## 获取地址
 
 vcpkg 安装：`vcpkg install h5py-lzf`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/h5py-lzf
-- 许可证：BSD-3-Clause
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/h-/h5py-lzf.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/h5py-lzf
+- vcpkg 许可证：BSD-3-Clause
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/h-/h5py-lzf.json

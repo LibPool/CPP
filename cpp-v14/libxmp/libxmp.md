@@ -6,7 +6,7 @@
 
 Libxmp is a library that renders module files to PCM data.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -28,8 +28,7 @@ Libxmp is a library that renders module files to PCM data.
 ## 获取地址
 
 vcpkg 安装：`vcpkg install libxmp`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libxmp
-- 许可证：MIT AND 0BSD AND BSD-3-Clause AND ISC AND LicenseRef-Public-Domain
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libxmp
+- vcpkg 许可证：MIT AND 0BSD AND BSD-3-Clause AND ISC AND LicenseRef-Public-Domain
 - 平台/支持条件：!xbox
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libxmp.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libxmp.json

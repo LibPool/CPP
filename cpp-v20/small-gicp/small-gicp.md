@@ -6,7 +6,7 @@
 
 Efficient and parallelized algorithms for point cloud registration
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -25,8 +25,7 @@ Efficient and parallelized algorithms for point cloud registration
 ## 获取地址
 
 vcpkg 安装：`vcpkg install small-gicp`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/small-gicp
-- 许可证：MIT
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/small-gicp
+- vcpkg 许可证：MIT
 - 平台/支持条件：!(x86 | arm32)
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/s-/small-gicp.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/s-/small-gicp.json

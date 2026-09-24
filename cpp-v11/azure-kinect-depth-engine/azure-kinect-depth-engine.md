@@ -6,7 +6,7 @@
 
 The depth engine converts raw sensor data into a normalized depth map. It contains closed-source proprietary code.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,7 +23,6 @@ The depth engine converts raw sensor data into a normalized depth map. It contai
 ## 获取地址
 
 vcpkg 安装：`vcpkg install azure-kinect-depth-engine`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/azure-kinect-depth-engine
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/azure-kinect-depth-engine
 - 平台/支持条件：(linux & (x64 | arm64)) | (windows & (x64 | x86))
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/a-/azure-kinect-depth-engine.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/a-/azure-kinect-depth-engine.json

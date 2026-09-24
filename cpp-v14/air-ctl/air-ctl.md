@@ -6,7 +6,7 @@
 
 C template container library
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -30,7 +30,6 @@ C template container library
 ## 获取地址
 
 vcpkg 安装：`vcpkg install air-ctl`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/air-ctl
-- 许可证：BSL-1.0
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/a-/air-ctl.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/air-ctl
+- vcpkg 许可证：BSL-1.0
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/a-/air-ctl.json

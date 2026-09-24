@@ -1,18 +1,20 @@
 # annoy
 
-> 标签: Apache-2.0, annoy, c++, vcpkg
+> 标签: Apache-2.0, annoy, c++, conan, vcpkg
 
 ## 简介
 
 Approximate Nearest Neighbors optimized for memory usage and loading/saving to disk
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集、Conan Center 官方 recipe 集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
 - 官网：https://github.com/spotify/annoy
 - vcpkg 端口：https://vcpkg.io/en/packages/annoy
 - vcpkg 源码：https://github.com/microsoft/vcpkg/tree/master/ports/annoy
+- Conan Center：https://conan.io/center/recipes/annoy
+- Conan recipe 源码：https://github.com/conan-io/conan-center-index/tree/master/recipes/annoy
 
 ## 历史版本号
 
@@ -20,11 +22,13 @@ Approximate Nearest Neighbors optimized for memory usage and loading/saving to d
 
 - 1.17.3
 - 1.17.2
+- Conan 1.17.3
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install annoy`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/annoy
-- 许可证：Apache-2.0
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/a-/annoy.json
+Conan 安装：`conan install --requires=annoy/1.17.3`
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/annoy
+- vcpkg 许可证：Apache-2.0
+- 版本记录：https://github.com/conan-io/conan-center-index/blob/master/recipes/annoy/config.yml
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/a-/annoy.json

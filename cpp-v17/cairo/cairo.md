@@ -1,18 +1,23 @@
 # cairo
 
-> 标签: LGPL-2.1-only OR MPL-1.1, c++, cairo, vcpkg
+> 标签: LGPL-2.1-only OR MPL-1.1, c++, cairo, conan, vcpkg
 
 ## 简介
 
 Cairo is a 2D graphics library with support for multiple output devices. Currently supported output targets include the X Window System (via both Xlib and XCB), Quartz, Win32, image buffers, PostScript, PDF, and SVG file output. Experimental backends include OpenGL, BeOS, OS/2, and DirectFB.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+Conan Center 收录：Cairo is a 2D graphics library with support for multiple output devices
+
+本库来自 vcpkg 官方端口集、Conan Center 官方 recipe 集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
 - 官网：https://cairographics.org
 - vcpkg 端口：https://vcpkg.io/en/packages/cairo
 - vcpkg 源码：https://github.com/microsoft/vcpkg/tree/master/ports/cairo
+- 官网（Conan）：https://cairographics.org/
+- Conan Center：https://conan.io/center/recipes/cairo
+- Conan recipe 源码：https://github.com/conan-io/conan-center-index/tree/master/recipes/cairo
 
 ## 历史版本号
 
@@ -30,13 +35,19 @@ Cairo is a 2D graphics library with support for multiple output devices. Current
 - 1.17.8#2
 - 1.17.8#1
 - 1.17.8
-- 共 25 条版本记录，完整清单见 vcpkg versions 文件。
+- 共 25 条 vcpkg 版本记录，完整清单见 vcpkg versions 文件。
+- Conan 1.18.4
+- Conan 1.18.0
+- Conan 1.17.8
+- Conan 1.17.6
+- Conan 1.17.4
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install cairo`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/cairo
-- 许可证：LGPL-2.1-only OR MPL-1.1
+Conan 安装：`conan install --requires=cairo/1.18.4`
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/cairo
+- vcpkg 许可证：LGPL-2.1-only OR MPL-1.1
 - 平台/支持条件：!xbox & !uwp
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/c-/cairo.json
+- 版本记录：https://github.com/conan-io/conan-center-index/blob/master/recipes/cairo/config.yml
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/c-/cairo.json

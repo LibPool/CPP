@@ -6,7 +6,7 @@
 
 C++ implementation of the Jupyter kernel protocol
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -25,7 +25,6 @@ C++ implementation of the Jupyter kernel protocol
 ## 获取地址
 
 vcpkg 安装：`vcpkg install xeus`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/xeus
-- 许可证：BSD-3-Clause
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/x-/xeus.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/xeus
+- vcpkg 许可证：BSD-3-Clause
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/x-/xeus.json

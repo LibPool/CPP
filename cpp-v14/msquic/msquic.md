@@ -6,7 +6,7 @@
 
 Cross-platform, C implementation of the IETF QUIC protocol
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -30,13 +30,12 @@ Cross-platform, C implementation of the IETF QUIC protocol
 - 2.3.6#2
 - 2.3.6#1
 - 2.3.6
-- 共 15 条版本记录，完整清单见 vcpkg versions 文件。
+- 共 15 条 vcpkg 版本记录，完整清单见 vcpkg versions 文件。
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install msquic`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/msquic
-- 许可证：MIT
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/msquic
+- vcpkg 许可证：MIT
 - 平台/支持条件：!mingw & !(static & staticcrt)
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/m-/msquic.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/m-/msquic.json

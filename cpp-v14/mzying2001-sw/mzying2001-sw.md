@@ -6,7 +6,7 @@
 
 A C++ GUI framework for building Windows desktop applications.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -30,8 +30,7 @@ A C++ GUI framework for building Windows desktop applications.
 ## 获取地址
 
 vcpkg 安装：`vcpkg install mzying2001-sw`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/mzying2001-sw
-- 许可证：MIT
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/mzying2001-sw
+- vcpkg 许可证：MIT
 - 平台/支持条件：windows & !uwp
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/m-/mzying2001-sw.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/m-/mzying2001-sw.json

@@ -1,18 +1,23 @@
 # numcpp
 
-> 标签: MIT, c++, numcpp, vcpkg
+> 标签: MIT, c++, conan, numcpp, vcpkg
 
 ## 简介
 
 C++ implementation of the Python Numpy library
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+Conan Center 收录：A Templatized Header Only C++ Implementation of the Python NumPy Library
+
+本库来自 vcpkg 官方端口集、Conan Center 官方 recipe 集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
 - 官网：https://dpilger26.github.io/NumCpp
 - vcpkg 端口：https://vcpkg.io/en/packages/numcpp
 - vcpkg 源码：https://github.com/microsoft/vcpkg/tree/master/ports/numcpp
+- 官网（Conan）：https://github.com/dpilger26/NumCpp
+- Conan Center：https://conan.io/center/recipes/numcpp
+- Conan recipe 源码：https://github.com/conan-io/conan-center-index/tree/master/recipes/numcpp
 
 ## 历史版本号
 
@@ -30,11 +35,24 @@ C++ implementation of the Python Numpy library
 - 2.11.0
 - 2.10.1
 - 2.6.0
+- Conan 2.14.0
+- Conan 2.12.1
+- Conan 2.12.0
+- Conan 2.11.0
+- Conan 2.10.1
+- Conan 2.9.0
+- Conan 2.8.0
+- Conan 2.7.0
+- Conan 2.6.2
+- Conan 2.5.1
+- Conan 2.4.2
+- Conan 2.4.1
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install numcpp`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/numcpp
-- 许可证：MIT
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/n-/numcpp.json
+Conan 安装：`conan install --requires=numcpp/2.14.0`
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/numcpp
+- vcpkg 许可证：MIT
+- 版本记录：https://github.com/conan-io/conan-center-index/blob/master/recipes/numcpp/config.yml
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/n-/numcpp.json

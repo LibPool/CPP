@@ -6,7 +6,7 @@
 
 Matching Algorithm with Recursively Implemented StorAge (MARISA) is a space-efficient trie data structure. This is a C++ library for an implementation of MARISA.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -27,8 +27,7 @@ Matching Algorithm with Recursively Implemented StorAge (MARISA) is a space-effi
 ## 获取地址
 
 vcpkg 安装：`vcpkg install marisa-trie`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/marisa-trie
-- 许可证：BSD-2-Clause OR LGPL-2.1-or-later
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/marisa-trie
+- vcpkg 许可证：BSD-2-Clause OR LGPL-2.1-or-later
 - 平台/支持条件：!windows | mingw | (windows & static)
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/m-/marisa-trie.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/m-/marisa-trie.json

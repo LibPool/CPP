@@ -6,7 +6,7 @@
 
 font compression reference code
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -24,6 +24,5 @@ font compression reference code
 ## 获取地址
 
 vcpkg 安装：`vcpkg install woff2`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/woff2
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/w-/woff2.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/woff2
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/w-/woff2.json

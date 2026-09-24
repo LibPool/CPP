@@ -6,7 +6,7 @@
 
 A fast and easy-to-use PLY parsing library in a single c++11 header and cpp file
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,7 +23,6 @@ A fast and easy-to-use PLY parsing library in a single c++11 header and cpp file
 ## 获取地址
 
 vcpkg 安装：`vcpkg install miniply`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/miniply
-- 许可证：MIT
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/m-/miniply.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/miniply
+- vcpkg 许可证：MIT
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/m-/miniply.json

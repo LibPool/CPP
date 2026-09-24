@@ -6,7 +6,7 @@
 
 Erasure Code API library written in C with pluggable Erasure Code backends. Mirror of code maintained at opendev.org.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -27,8 +27,7 @@ Erasure Code API library written in C with pluggable Erasure Code backends. Mirr
 ## 获取地址
 
 vcpkg 安装：`vcpkg install liberasurecode`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/liberasurecode
-- 许可证：BSD-2-Clause
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/liberasurecode
+- vcpkg 许可证：BSD-2-Clause
 - 平台/支持条件：!android & !windows
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/l-/liberasurecode.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/l-/liberasurecode.json

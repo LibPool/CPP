@@ -6,7 +6,7 @@
 
 VTK-m is a toolkit of scientific visualization algorithms for emerging processor architectures.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -29,7 +29,6 @@ VTK-m is a toolkit of scientific visualization algorithms for emerging processor
 ## 获取地址
 
 vcpkg 安装：`vcpkg install vtk-m`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/vtk-m
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/vtk-m
 - 平台/支持条件：!x86 & !uwp
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/v-/vtk-m.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/v-/vtk-m.json

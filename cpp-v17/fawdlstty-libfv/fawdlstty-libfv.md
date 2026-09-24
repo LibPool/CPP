@@ -6,7 +6,7 @@
 
 libfv is C++20 header-only network library, support TCP/SSL/Http/websocket server and client
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -25,7 +25,6 @@ libfv is C++20 header-only network library, support TCP/SSL/Http/websocket serve
 ## 获取地址
 
 vcpkg 安装：`vcpkg install fawdlstty-libfv`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/fawdlstty-libfv
-- 许可证：MIT
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/f-/fawdlstty-libfv.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/fawdlstty-libfv
+- vcpkg 许可证：MIT
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/f-/fawdlstty-libfv.json

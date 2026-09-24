@@ -6,7 +6,7 @@
 
 The Discord GameSDK is an easy drop-in SDK to help you manage all the hard things that come with making a game.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -26,7 +26,6 @@ The Discord GameSDK is an easy drop-in SDK to help you manage all the hard thing
 ## 获取地址
 
 vcpkg 安装：`vcpkg install discord-game-sdk`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/discord-game-sdk
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/discord-game-sdk
 - 平台/支持条件：((x64 & (windows | osx | linux)) | (x86 & windows) | (arm64 & osx)) & !uwp & !static
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/d-/discord-game-sdk.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/d-/discord-game-sdk.json

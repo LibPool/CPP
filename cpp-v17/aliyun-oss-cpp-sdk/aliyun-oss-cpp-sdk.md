@@ -6,7 +6,7 @@
 
 Alibaba Cloud Object Storage Service (OSS) is a cloud storage service provided by Alibaba Cloud, featuring massive capacity, security, a low cost, and high reliability.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -28,8 +28,7 @@ Alibaba Cloud Object Storage Service (OSS) is a cloud storage service provided b
 ## 获取地址
 
 vcpkg 安装：`vcpkg install aliyun-oss-cpp-sdk`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/aliyun-oss-cpp-sdk
-- 许可证：Apache-2.0
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/aliyun-oss-cpp-sdk
+- vcpkg 许可证：Apache-2.0
 - 平台/支持条件：linux | osx | android
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/a-/aliyun-oss-cpp-sdk.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/a-/aliyun-oss-cpp-sdk.json

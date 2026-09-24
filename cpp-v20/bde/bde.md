@@ -6,7 +6,7 @@
 
 Basic Development Environment - a set of foundational C++ libraries used at Bloomberg.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -34,8 +34,7 @@ Basic Development Environment - a set of foundational C++ libraries used at Bloo
 ## 获取地址
 
 vcpkg 安装：`vcpkg install bde`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/bde
-- 许可证：Apache-2.0
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/bde
+- vcpkg 许可证：Apache-2.0
 - 平台/支持条件：!android & !(arm64 & windows) & !uwp
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/b-/bde.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/b-/bde.json

@@ -6,7 +6,7 @@
 
 Addons to QtGui
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -32,6 +32,5 @@ Addons to QtGui
 ## 获取地址
 
 vcpkg 安装：`vcpkg install kf5guiaddons`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/kf5guiaddons
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/k-/kf5guiaddons.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/kf5guiaddons
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/k-/kf5guiaddons.json

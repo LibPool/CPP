@@ -6,7 +6,7 @@
 
 Format-aware compression framework delivering high ratios while preserving speed.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -24,8 +24,7 @@ Format-aware compression framework delivering high ratios while preserving speed
 ## 获取地址
 
 vcpkg 安装：`vcpkg install openzl`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/openzl
-- 许可证：BSD-3-Clause AND Apache-2.0
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/openzl
+- vcpkg 许可证：BSD-3-Clause AND Apache-2.0
 - 平台/支持条件：!uwp & !x86 & !arm32
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/o-/openzl.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/o-/openzl.json

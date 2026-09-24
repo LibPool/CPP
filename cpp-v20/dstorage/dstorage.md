@@ -6,7 +6,7 @@
 
 DirectStorage for Windows
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -34,7 +34,6 @@ DirectStorage for Windows
 ## 获取地址
 
 vcpkg 安装：`vcpkg install dstorage`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/dstorage
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/dstorage
 - 平台/支持条件：windows & !arm32 & !uwp & !xbox
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/d-/dstorage.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/d-/dstorage.json

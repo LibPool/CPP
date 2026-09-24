@@ -1,18 +1,22 @@
 # dirent
 
-> 标签: MIT, c++, dirent, vcpkg
+> 标签: MIT, c++, conan, dirent, vcpkg
 
 ## 简介
 
 Dirent is a C/C++ programming interface that allows programmers to retrieve information about files and directories under Linux/UNIX. This project provides Linux compatible Dirent interface for Microsoft Windows.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+Conan Center 收录：Dirent is a C/C++ programming interface that allows programmers to retrieve information about
+
+本库来自 vcpkg 官方端口集、Conan Center 官方 recipe 集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
 - 官网：https://github.com/tronkko/dirent
 - vcpkg 端口：https://vcpkg.io/en/packages/dirent
 - vcpkg 源码：https://github.com/microsoft/vcpkg/tree/master/ports/dirent
+- Conan Center：https://conan.io/center/recipes/dirent
+- Conan recipe 源码：https://github.com/conan-io/conan-center-index/tree/master/recipes/dirent
 
 ## 历史版本号
 
@@ -23,11 +27,14 @@ Dirent is a C/C++ programming interface that allows programmers to retrieve info
 - 1.24
 - 1.23.2#3
 - 1.23.2#2
+- Conan 1.24
+- Conan 1.23.2
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install dirent`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/dirent
-- 许可证：MIT
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/d-/dirent.json
+Conan 安装：`conan install --requires=dirent/1.24`
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/dirent
+- vcpkg 许可证：MIT
+- 版本记录：https://github.com/conan-io/conan-center-index/blob/master/recipes/dirent/config.yml
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/d-/dirent.json

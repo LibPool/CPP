@@ -6,7 +6,7 @@
 
 PLplot is a cross-platform software package for creating scientific plots whose (UTF-8) plot symbols and text are limited in practice only by what Unicode-aware system fonts are installed on a user's computer.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,6 +23,5 @@ PLplot is a cross-platform software package for creating scientific plots whose 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install plplot`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/plplot
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/p-/plplot.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/plplot
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/p-/plplot.json

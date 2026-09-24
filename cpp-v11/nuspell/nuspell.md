@@ -8,7 +8,7 @@ Nuspell is a fast and safe spelling checker software program.
 It is designed for languages with rich morphology and complex word compounding.
 Nuspell is written in modern C++ and it supports Hunspell dictionaries.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -25,8 +25,7 @@ Nuspell is written in modern C++ and it supports Hunspell dictionaries.
 ## 获取地址
 
 vcpkg 安装：`vcpkg install nuspell`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/nuspell
-- 许可证：LGPL-3.0-or-later
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/nuspell
+- vcpkg 许可证：LGPL-3.0-or-later
 - 平台/支持条件：!xbox
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/n-/nuspell.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/n-/nuspell.json

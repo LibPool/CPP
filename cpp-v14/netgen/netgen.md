@@ -6,7 +6,7 @@
 
 NETGEN is an automatic 3d tetrahedral mesh generator. It accepts input from constructive solid geometry (CSG) or boundary representation (BRep) from STL file format. The connection to a geometry kernel allows the handling of IGES and STEP files. NETGEN contains modules for mesh optimization and hierarchical mesh refinement.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -29,8 +29,7 @@ NETGEN is an automatic 3d tetrahedral mesh generator. It accepts input from cons
 ## 获取地址
 
 vcpkg 安装：`vcpkg install netgen`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/netgen
-- 许可证：LGPL-2.1-or-later
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/netgen
+- vcpkg 许可证：LGPL-2.1-or-later
 - 平台/支持条件：arm64 | x64
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/n-/netgen.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/n-/netgen.json

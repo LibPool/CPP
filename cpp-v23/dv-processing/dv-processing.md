@@ -6,7 +6,7 @@
 
 Generic algorithms for event cameras. (C++20 required.)
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -30,12 +30,11 @@ Generic algorithms for event cameras. (C++20 required.)
 - 1.5.1#1
 - 1.5.1
 - 1.5.0
-- 共 14 条版本记录，完整清单见 vcpkg versions 文件。
+- 共 14 条 vcpkg 版本记录，完整清单见 vcpkg versions 文件。
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install dv-processing`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/dv-processing
-- 许可证：Apache-2.0
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/d-/dv-processing.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/dv-processing
+- vcpkg 许可证：Apache-2.0
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/d-/dv-processing.json

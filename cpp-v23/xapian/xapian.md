@@ -6,7 +6,7 @@
 
 Xapian is an Open Source Search Engine Library, released under the GPL v2+. It's written in C++, with bindings to allow use from Perl, Python 2, Python 3, PHP 5, PHP 7, Java, Tcl, C#, Ruby, Lua, Erlang, Node.js and R (so far!)
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -28,8 +28,7 @@ Xapian is an Open Source Search Engine Library, released under the GPL v2+. It's
 ## 获取地址
 
 vcpkg 安装：`vcpkg install xapian`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/xapian
-- 许可证：GPL-2.0-or-later
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/xapian
+- vcpkg 许可证：GPL-2.0-or-later
 - 平台/支持条件：(!arm | arm64) & !uwp & !xbox
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/x-/xapian.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/x-/xapian.json

@@ -6,7 +6,7 @@
 
 A simple C++ test framework with no dependencies other than C++11 STL.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,7 +23,6 @@ A simple C++ test framework with no dependencies other than C++11 STL.
 ## 获取地址
 
 vcpkg 安装：`vcpkg install eljonny-testcpp`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/eljonny-testcpp
-- 许可证：Unlicense
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/e-/eljonny-testcpp.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/eljonny-testcpp
+- vcpkg 许可证：Unlicense
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/e-/eljonny-testcpp.json

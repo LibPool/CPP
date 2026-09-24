@@ -6,7 +6,7 @@
 
 Qt WebView provides a way to display web content in a QML application without necessarily including a full web browser stack by using native APIs where it makes sense.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -30,12 +30,11 @@ Qt WebView provides a way to display web content in a QML application without ne
 - 6.9.0
 - 6.8.3
 - 6.8.2
-- 共 36 条版本记录，完整清单见 vcpkg versions 文件。
+- 共 36 条 vcpkg 版本记录，完整清单见 vcpkg versions 文件。
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install qtwebview`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/qtwebview
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/qtwebview
 - 平台/支持条件：x64 | arm64
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/q-/qtwebview.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/q-/qtwebview.json

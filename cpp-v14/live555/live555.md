@@ -6,7 +6,7 @@
 
 A complete RTSP server application
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,8 +23,7 @@ A complete RTSP server application
 ## 获取地址
 
 vcpkg 安装：`vcpkg install live555`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/live555
-- 许可证：GPL-3.0-or-later
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/live555
+- vcpkg 许可证：GPL-3.0-or-later
 - 平台/支持条件：!xbox
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/l-/live555.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/l-/live555.json

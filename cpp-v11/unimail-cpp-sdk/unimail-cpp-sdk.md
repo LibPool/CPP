@@ -6,7 +6,7 @@
 
 This is a cpp SDK for Unimail. Quickly integrate into your project.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -26,7 +26,6 @@ This is a cpp SDK for Unimail. Quickly integrate into your project.
 ## 获取地址
 
 vcpkg 安装：`vcpkg install unimail-cpp-sdk`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/unimail-cpp-sdk
-- 许可证：BSD-3-Clause
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/u-/unimail-cpp-sdk.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/unimail-cpp-sdk
+- vcpkg 许可证：BSD-3-Clause
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/u-/unimail-cpp-sdk.json

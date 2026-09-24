@@ -6,7 +6,7 @@
 
 a C++ class library that implements the functionality of an OpenVPN client, and is protocol-compatible with the OpenVPN 2.x branch.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -27,8 +27,7 @@ a C++ class library that implements the functionality of an OpenVPN client, and 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install openvpn3`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/openvpn3
-- 许可证：AGPL-3.0-only
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/openvpn3
+- vcpkg 许可证：AGPL-3.0-only
 - 平台/支持条件：!uwp & !xbox
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/o-/openvpn3.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/o-/openvpn3.json

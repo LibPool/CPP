@@ -6,7 +6,7 @@
 
 LV2 is a plugin standard for audio systems. It defines a minimal yet extensible C API for plugin code and a format for plugin "bundles".
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -24,7 +24,6 @@ LV2 is a plugin standard for audio systems. It defines a minimal yet extensible 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install lv2`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/lv2
-- 许可证：ISC
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/l-/lv2.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/lv2
+- vcpkg 许可证：ISC
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/l-/lv2.json

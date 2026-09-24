@@ -6,7 +6,7 @@
 
 Graphics primitives (line, circle, rectangle etc.) with AA support, rotozoomer and other drawing related support functions wrapped up in a C based add-on library for the Simple Direct Media (SDL) cross-platform API layer.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,6 +23,5 @@ Graphics primitives (line, circle, rectangle etc.) with AA support, rotozoomer a
 ## 获取地址
 
 vcpkg 安装：`vcpkg install sdl2-gfx`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/sdl2-gfx
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/s-/sdl2-gfx.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/sdl2-gfx
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/s-/sdl2-gfx.json

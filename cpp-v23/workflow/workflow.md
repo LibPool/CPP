@@ -6,7 +6,7 @@
 
 C++ Parallel Computing and Asynchronous Networking Engine
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -30,13 +30,12 @@ C++ Parallel Computing and Asynchronous Networking Engine
 - 0.9.7
 - 0.9.6
 - 0.9.5#1
-- 共 13 条版本记录，完整清单见 vcpkg versions 文件。
+- 共 13 条 vcpkg 版本记录，完整清单见 vcpkg versions 文件。
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install workflow`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/workflow
-- 许可证：Apache-2.0
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/workflow
+- vcpkg 许可证：Apache-2.0
 - 平台/支持条件：!windows
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/w-/workflow.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/w-/workflow.json

@@ -6,7 +6,7 @@
 
 Redistributable version of XAudio 2.9 for Windows 7 SP1 or later
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -30,12 +30,11 @@ Redistributable version of XAudio 2.9 for Windows 7 SP1 or later
 - 1.2.9
 - 1.2.8#3
 - 1.2.8#2
-- 共 13 条版本记录，完整清单见 vcpkg versions 文件。
+- 共 13 条 vcpkg 版本记录，完整清单见 vcpkg versions 文件。
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install xaudio2redist`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/xaudio2redist
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/xaudio2redist
 - 平台/支持条件：windows & !arm32 & !uwp & !xbox
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/x-/xaudio2redist.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/x-/xaudio2redist.json

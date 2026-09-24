@@ -6,7 +6,7 @@
 
 A command line editor library that provides generic line editing, history, and tokenization functions, similar to those found in GNU Readline.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,8 +23,7 @@ A command line editor library that provides generic line editing, history, and t
 ## 获取地址
 
 vcpkg 安装：`vcpkg install libedit`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libedit
-- 许可证：BSD-4-Clause-UC
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libedit
+- vcpkg 许可证：BSD-4-Clause-UC
 - 平台/支持条件：(!windows | mingw) & !android
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libedit.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libedit.json

@@ -6,7 +6,7 @@
 
 DBoW3 is an improved version of the DBow2 library, an open source C++ library for indexing and converting images into a bag-of-word representation.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -25,8 +25,7 @@ DBoW3 is an improved version of the DBow2 library, an open source C++ library fo
 ## 获取地址
 
 vcpkg 安装：`vcpkg install dbow3`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/dbow3
-- 许可证：BSD-3-Clause
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/dbow3
+- vcpkg 许可证：BSD-3-Clause
 - 平台/支持条件：linux
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/d-/dbow3.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/d-/dbow3.json

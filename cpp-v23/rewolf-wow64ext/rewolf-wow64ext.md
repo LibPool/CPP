@@ -6,7 +6,7 @@
 
 Helper library for x86 programs that runs under WOW64 layer on x64 versions of Microsoft Windows operating systems.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -24,8 +24,7 @@ Helper library for x86 programs that runs under WOW64 layer on x64 versions of M
 ## 获取地址
 
 vcpkg 安装：`vcpkg install rewolf-wow64ext`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/rewolf-wow64ext
-- 许可证：LGPL-3.0-or-later
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/rewolf-wow64ext
+- vcpkg 许可证：LGPL-3.0-or-later
 - 平台/支持条件：windows & !mingw & x86
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/r-/rewolf-wow64ext.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/r-/rewolf-wow64ext.json

@@ -6,7 +6,7 @@
 
 Header-only utf8 string range used by daw-json-link. Includes a constexpr/noexcept modified version of utfcpp.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -28,7 +28,6 @@ Header-only utf8 string range used by daw-json-link. Includes a constexpr/noexce
 ## 获取地址
 
 vcpkg 安装：`vcpkg install daw-utf-range`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/daw-utf-range
-- 许可证：BSL-1.0
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/d-/daw-utf-range.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/daw-utf-range
+- vcpkg 许可证：BSL-1.0
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/d-/daw-utf-range.json

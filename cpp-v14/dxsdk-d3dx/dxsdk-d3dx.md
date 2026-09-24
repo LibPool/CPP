@@ -6,7 +6,7 @@
 
 Redistributable package for the legacy DirectX SDK's D3DX9, D3DX10, and/or D3DX11 utility libraries.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -30,7 +30,6 @@ Redistributable package for the legacy DirectX SDK's D3DX9, D3DX10, and/or D3DX1
 ## 获取地址
 
 vcpkg 安装：`vcpkg install dxsdk-d3dx`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/dxsdk-d3dx
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/dxsdk-d3dx
 - 平台/支持条件：windows & !arm & !uwp & !xbox
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/d-/dxsdk-d3dx.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/d-/dxsdk-d3dx.json

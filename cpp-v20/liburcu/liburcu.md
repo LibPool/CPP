@@ -6,7 +6,7 @@
 
 liburcu is a LGPLv2.1 userspace RCU (read-copy-update) library. This data synchronization library provides read-side access which scales linearly with the number of cores.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -24,7 +24,6 @@ liburcu is a LGPLv2.1 userspace RCU (read-copy-update) library. This data synchr
 ## 获取地址
 
 vcpkg 安装：`vcpkg install liburcu`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/liburcu
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/liburcu
 - 平台/支持条件：!windows
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/l-/liburcu.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/l-/liburcu.json

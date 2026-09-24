@@ -6,7 +6,7 @@
 
 KCrash provides support for intercepting and handling application crashes.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -32,6 +32,5 @@ KCrash provides support for intercepting and handling application crashes.
 ## 获取地址
 
 vcpkg 安装：`vcpkg install kf5crash`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/kf5crash
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/k-/kf5crash.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/kf5crash
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/k-/kf5crash.json

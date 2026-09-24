@@ -6,7 +6,7 @@
 
 The COIN-OR Cut Generation Library (Cgl) is a collection of cut generators that can be used with other COIN-OR packages that make use of cuts, such as, among others, the linear solver Clp or the mixed integer linear programming solvers Cbc or BCP.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,7 +23,6 @@ The COIN-OR Cut Generation Library (Cgl) is a collection of cut generators that 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install coin-or-cgl`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/coin-or-cgl
-- 许可证：EPL-2.0
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/c-/coin-or-cgl.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/coin-or-cgl
+- vcpkg 许可证：EPL-2.0
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/c-/coin-or-cgl.json

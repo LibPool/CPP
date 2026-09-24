@@ -6,7 +6,7 @@
 
 The Comprehensive Transaction Platform (CTP) is a future brokerage management system developed specially for futures companies. CTP API client library allows users to connect to CTP gateway for algorithmic trading.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,7 +23,6 @@ The Comprehensive Transaction Platform (CTP) is a future brokerage management sy
 ## 获取地址
 
 vcpkg 安装：`vcpkg install ctp`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/ctp
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/ctp
 - 平台/支持条件：!osx & !uwp & !arm & !(static & staticcrt)
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/c-/ctp.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/c-/ctp.json

@@ -6,7 +6,7 @@
 
 Extra CMake Modules (ECM), extra modules and scripts for CMake
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -30,12 +30,11 @@ Extra CMake Modules (ECM), extra modules and scripts for CMake
 - 6.7.0#2
 - 6.7.0#1
 - 6.7.0
-- 共 23 条版本记录，完整清单见 vcpkg versions 文件。
+- 共 23 条 vcpkg 版本记录，完整清单见 vcpkg versions 文件。
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install ecm`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/ecm
-- 许可证：BSD-2-Clause AND BSD-3-Clause AND CC0-1.0 AND GPL-2.0-or-later AND MIT
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/e-/ecm.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/ecm
+- vcpkg 许可证：BSD-2-Clause AND BSD-3-Clause AND CC0-1.0 AND GPL-2.0-or-later AND MIT
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/e-/ecm.json

@@ -6,7 +6,7 @@
 
 Asterisk ARI interface bindings for modern C++
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,7 +23,6 @@ Asterisk ARI interface bindings for modern C++
 ## 获取地址
 
 vcpkg 安装：`vcpkg install aricpp`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/aricpp
-- 许可证：BSL-1.0
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/a-/aricpp.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/aricpp
+- vcpkg 许可证：BSL-1.0
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/a-/aricpp.json

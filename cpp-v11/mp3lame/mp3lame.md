@@ -6,7 +6,7 @@
 
 LAME is a high quality MPEG Audio Layer III (MP3) encoder licensed under the LGPL.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -32,7 +32,6 @@ LAME is a high quality MPEG Audio Layer III (MP3) encoder licensed under the LGP
 ## 获取地址
 
 vcpkg 安装：`vcpkg install mp3lame`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/mp3lame
-- 许可证：LGPL-2.0-only
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/m-/mp3lame.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/mp3lame
+- vcpkg 许可证：LGPL-2.0-only
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/m-/mp3lame.json

@@ -6,7 +6,7 @@
 
 Unofficial VMProtect SDK package port for C/C++ development.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -24,8 +24,7 @@ Unofficial VMProtect SDK package port for C/C++ development.
 ## 获取地址
 
 vcpkg 安装：`vcpkg install orange-vmprotect-sdk`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/orange-vmprotect-sdk
-- 许可证：Zlib
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/orange-vmprotect-sdk
+- vcpkg 许可证：Zlib
 - 平台/支持条件：(windows | linux | osx | android) & !(static & staticcrt)
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/o-/orange-vmprotect-sdk.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/o-/orange-vmprotect-sdk.json

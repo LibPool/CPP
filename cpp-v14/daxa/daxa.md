@@ -6,7 +6,7 @@
 
 Daxa C++ Vulkan Abstraction
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -28,8 +28,7 @@ Daxa C++ Vulkan Abstraction
 ## 获取地址
 
 vcpkg 安装：`vcpkg install daxa`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/daxa
-- 许可证：MIT
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/daxa
+- vcpkg 许可证：MIT
 - 平台/支持条件：(windows | linux) & !x86
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/d-/daxa.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/d-/daxa.json

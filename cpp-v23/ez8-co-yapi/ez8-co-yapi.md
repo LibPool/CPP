@@ -6,7 +6,7 @@
 
 A header-only fusion injector that reduces differences between x64, wow64 and x86 processes.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,8 +23,7 @@ A header-only fusion injector that reduces differences between x64, wow64 and x8
 ## 获取地址
 
 vcpkg 安装：`vcpkg install ez8-co-yapi`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/ez8-co-yapi
-- 许可证：MIT
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/ez8-co-yapi
+- vcpkg 许可证：MIT
 - 平台/支持条件：windows & !uwp
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/e-/ez8-co-yapi.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/e-/ez8-co-yapi.json

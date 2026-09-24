@@ -6,7 +6,7 @@
 
 Sciter.JS - Sciter but with QuickJS on board instead of TIScript. Sciter is an embeddable HTML/CSS/scripting engine.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -32,7 +32,6 @@ Sciter.JS - Sciter but with QuickJS on board instead of TIScript. Sciter is an e
 ## 获取地址
 
 vcpkg 安装：`vcpkg install sciter-js`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/sciter-js
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/sciter-js
 - 平台/支持条件：!uwp & !arm & !static & !android & !freebsd & !openbsd & !netbsd & !(x86 & !windows)
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/s-/sciter-js.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/s-/sciter-js.json

@@ -6,7 +6,7 @@
 
 DirectX Shader Compiler (LLVM/Clang)
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,7 +23,6 @@ DirectX Shader Compiler (LLVM/Clang)
 ## 获取地址
 
 vcpkg 安装：`vcpkg install directx-dxc`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/directx-dxc
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/directx-dxc
 - 平台/支持条件：(windows & !arm32 & !uwp & !xbox) | (linux & x64)
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/d-/directx-dxc.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/d-/directx-dxc.json

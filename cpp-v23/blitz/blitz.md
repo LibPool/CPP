@@ -6,7 +6,7 @@
 
 Blitz++ is a C++ template class library that provides high-performance multidimensional array containers for scientific computing.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,7 +23,6 @@ Blitz++ is a C++ template class library that provides high-performance multidime
 ## 获取地址
 
 vcpkg 安装：`vcpkg install blitz`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/blitz
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/blitz
 - 平台/支持条件：!(arm | arm64 | uwp)
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/b-/blitz.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/b-/blitz.json

@@ -6,7 +6,7 @@
 
 Microsoft MPI (MS-MPI) is a Microsoft implementation of the Message Passing Interface standard for developing and running parallel applications on the Windows platform.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -28,8 +28,7 @@ Microsoft MPI (MS-MPI) is a Microsoft implementation of the Message Passing Inte
 ## 获取地址
 
 vcpkg 安装：`vcpkg install msmpi`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/msmpi
-- 许可证：MIT
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/msmpi
+- vcpkg 许可证：MIT
 - 平台/支持条件：windows & !uwp & (x64 | x86)
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/m-/msmpi.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/m-/msmpi.json

@@ -1,18 +1,23 @@
 # taglib
 
-> 标签: LGPL-2.1-only OR MPL-1.1, c++, taglib, vcpkg
+> 标签: LGPL-2.1-only OR MPL-1.1, c++, conan, taglib, vcpkg
 
 ## 简介
 
 TagLib Audio Meta-Data Library
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+Conan Center 收录：TagLib is a library for reading and editing the metadata of several popular audio formats.
+
+本库来自 vcpkg 官方端口集、Conan Center 官方 recipe 集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
 - 官网：https://taglib.org/
 - vcpkg 端口：https://vcpkg.io/en/packages/taglib
 - vcpkg 源码：https://github.com/microsoft/vcpkg/tree/master/ports/taglib
+- 官网（Conan）：https://taglib.org
+- Conan Center：https://conan.io/center/recipes/taglib
+- Conan recipe 源码：https://github.com/conan-io/conan-center-index/tree/master/recipes/taglib
 
 ## 历史版本号
 
@@ -27,11 +32,16 @@ TagLib Audio Meta-Data Library
 - 2.0#2
 - 2.0#1
 - 2.0
+- Conan 2.0
+- Conan 1.13.1
+- Conan 1.13
+- Conan 1.12
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install taglib`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/taglib
-- 许可证：LGPL-2.1-only OR MPL-1.1
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/t-/taglib.json
+Conan 安装：`conan install --requires=taglib/2.0`
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/taglib
+- vcpkg 许可证：LGPL-2.1-only OR MPL-1.1
+- 版本记录：https://github.com/conan-io/conan-center-index/blob/master/recipes/taglib/config.yml
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/t-/taglib.json

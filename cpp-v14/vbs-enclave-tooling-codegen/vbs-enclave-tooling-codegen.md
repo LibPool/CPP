@@ -6,7 +6,7 @@
 
 Supports code generation for VBS enclaves.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -26,8 +26,7 @@ Supports code generation for VBS enclaves.
 ## 获取地址
 
 vcpkg 安装：`vcpkg install vbs-enclave-tooling-codegen`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/vbs-enclave-tooling-codegen
-- 许可证：MIT
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/vbs-enclave-tooling-codegen
+- vcpkg 许可证：MIT
 - 平台/支持条件：(windows & arm64) | (windows & x64)
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/v-/vbs-enclave-tooling-codegen.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/v-/vbs-enclave-tooling-codegen.json

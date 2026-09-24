@@ -1,18 +1,21 @@
 # boost-leaf
 
-> 标签: BSL-1.0, boost-leaf, c++, vcpkg
+> 标签: BSL-1.0, boost-leaf, c++, conan, vcpkg
 
 ## 简介
 
 Boost leaf module
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集、Conan Center 官方 recipe 集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
 - 官网：https://www.boost.org/library/latest/leaf/
 - vcpkg 端口：https://vcpkg.io/en/packages/boost-leaf
 - vcpkg 源码：https://github.com/microsoft/vcpkg/tree/master/ports/boost-leaf
+- 官网（Conan）：https://github.com/boostorg/leaf
+- Conan Center：https://conan.io/center/recipes/boost-leaf
+- Conan recipe 源码：https://github.com/conan-io/conan-center-index/tree/master/recipes/boost-leaf
 
 ## 历史版本号
 
@@ -30,12 +33,16 @@ Boost leaf module
 - 1.85.0
 - 1.84.0#1
 - 1.84.0
-- 共 25 条版本记录，完整清单见 vcpkg versions 文件。
+- 共 25 条 vcpkg 版本记录，完整清单见 vcpkg versions 文件。
+- Conan 1.81.0
+- Conan 1.82.0
+- Conan 1.83.0
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install boost-leaf`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/boost-leaf
-- 许可证：BSL-1.0
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/b-/boost-leaf.json
+Conan 安装：`conan install --requires=boost-leaf/1.81.0`
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/boost-leaf
+- vcpkg 许可证：BSL-1.0
+- 版本记录：https://github.com/conan-io/conan-center-index/blob/master/recipes/boost-leaf/config.yml
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/b-/boost-leaf.json

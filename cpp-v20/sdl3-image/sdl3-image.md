@@ -6,7 +6,7 @@
 
 SDL_image is an image file loading library. It loads images as SDL surfaces and textures, and supports the following formats: AVIF, BMP, GIF, JPEG, JPEG XL, LBM, PCX, PNG, PNM, TGA, TIFF, WEBP, XCF, XPM, XV
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -32,7 +32,6 @@ SDL_image is an image file loading library. It loads images as SDL surfaces and 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install sdl3-image`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/sdl3-image
-- 许可证：Zlib
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/s-/sdl3-image.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/sdl3-image
+- vcpkg 许可证：Zlib
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/s-/sdl3-image.json

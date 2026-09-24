@@ -1,18 +1,20 @@
 # aws-c-common
 
-> 标签: Apache-2.0 AND BSD-3-Clause AND MIT, aws-c-common, c++, vcpkg
+> 标签: Apache-2.0, Apache-2.0 AND BSD-3-Clause AND MIT, aws-c-common, c++, conan, vcpkg
 
 ## 简介
 
 AWS common library for C
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集、Conan Center 官方 recipe 集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
 - 官网：https://github.com/awslabs/aws-c-common
 - vcpkg 端口：https://vcpkg.io/en/packages/aws-c-common
 - vcpkg 源码：https://github.com/microsoft/vcpkg/tree/master/ports/aws-c-common
+- Conan Center：https://conan.io/center/recipes/aws-c-common
+- Conan recipe 源码：https://github.com/conan-io/conan-center-index/tree/master/recipes/aws-c-common
 
 ## 历史版本号
 
@@ -30,13 +32,16 @@ AWS common library for C
 - 0.13.1
 - 0.13.0
 - 0.12.6
-- 共 34 条版本记录，完整清单见 vcpkg versions 文件。
+- 共 34 条 vcpkg 版本记录，完整清单见 vcpkg versions 文件。
+- Conan 0.12.5
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install aws-c-common`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/aws-c-common
-- 许可证：Apache-2.0 AND BSD-3-Clause AND MIT
+Conan 安装：`conan install --requires=aws-c-common/0.12.5`
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/aws-c-common
+- vcpkg 许可证：Apache-2.0 AND BSD-3-Clause AND MIT
 - 平台/支持条件：!(windows & arm32) & !uwp
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/a-/aws-c-common.json
+- Conan 许可证：Apache-2.0
+- 版本记录：https://github.com/conan-io/conan-center-index/blob/master/recipes/aws-c-common/config.yml
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/a-/aws-c-common.json

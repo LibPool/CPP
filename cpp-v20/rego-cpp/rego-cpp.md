@@ -6,7 +6,7 @@
 
 A C++ interpreter for the OPA Rego policy language
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -27,8 +27,7 @@ A C++ interpreter for the OPA Rego policy language
 ## 获取地址
 
 vcpkg 安装：`vcpkg install rego-cpp`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/rego-cpp
-- 许可证：MIT AND Zlib
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/rego-cpp
+- vcpkg 许可证：MIT AND Zlib
 - 平台/支持条件：!x86
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/r-/rego-cpp.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/r-/rego-cpp.json

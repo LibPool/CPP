@@ -6,7 +6,7 @@
 
 COLMAP is a general-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline with a graphical and command-line interface. It offers a wide range of features for reconstruction of ordered and unordered image collections. The software is licensed under the new BSD license.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -31,8 +31,7 @@ COLMAP is a general-purpose Structure-from-Motion (SfM) and Multi-View Stereo (M
 ## 获取地址
 
 vcpkg 安装：`vcpkg install colmap`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/colmap
-- 许可证：BSD-3-Clause
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/colmap
+- vcpkg 许可证：BSD-3-Clause
 - 平台/支持条件：(linux | (windows & !static) | osx) & (x86 | x64 | arm64)
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/c-/colmap.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/c-/colmap.json

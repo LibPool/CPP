@@ -6,7 +6,7 @@
 
 GNU LibreDWG is a free C library to handle DWG files. It aims to be a free replacement for the OpenDWG libraries. DWG is the native file format of AutoCAD.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -29,8 +29,7 @@ GNU LibreDWG is a free C library to handle DWG files. It aims to be a free repla
 ## 获取地址
 
 vcpkg 安装：`vcpkg install libredwg`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libredwg
-- 许可证：GPL-3.0
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libredwg
+- vcpkg 许可证：GPL-3.0
 - 平台/支持条件：!xbox
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libredwg.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libredwg.json

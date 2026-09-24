@@ -6,7 +6,7 @@
 
 A modern C++ library for efficiently and easily iterating through common combinatorial objects, such as combinations, permutations, partitions and more.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,6 +23,5 @@ A modern C++ library for efficiently and easily iterating through common combina
 ## 获取地址
 
 vcpkg 安装：`vcpkg install discreture`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/discreture
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/d-/discreture.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/discreture
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/d-/discreture.json

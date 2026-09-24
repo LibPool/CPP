@@ -1,18 +1,22 @@
 # simd
 
-> 标签: MIT, c++, simd, vcpkg
+> 标签: MIT, c++, conan, simd, vcpkg
 
 ## 简介
 
 Simd image processing and machine learning library, designed for C and C++ programmers
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+Conan Center 收录：C++ image processing and machine learning library with SIMD
+
+本库来自 vcpkg 官方端口集、Conan Center 官方 recipe 集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
 - 官网：https://github.com/ermig1979/Simd
 - vcpkg 端口：https://vcpkg.io/en/packages/simd
 - vcpkg 源码：https://github.com/microsoft/vcpkg/tree/master/ports/simd
+- Conan Center：https://conan.io/center/recipes/simd
+- Conan recipe 源码：https://github.com/conan-io/conan-center-index/tree/master/recipes/simd
 
 ## 历史版本号
 
@@ -30,13 +34,18 @@ Simd image processing and machine learning library, designed for C and C++ progr
 - 6.2.156
 - 6.2.155
 - 6.2.154
-- 共 29 条版本记录，完整清单见 vcpkg versions 文件。
+- 共 29 条 vcpkg 版本记录，完整清单见 vcpkg versions 文件。
+- Conan 6.2.155
+- Conan 6.1.143
+- Conan 6.1.142
+- Conan 6.1.138
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install simd`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/simd
-- 许可证：MIT
+Conan 安装：`conan install --requires=simd/6.2.155`
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/simd
+- vcpkg 许可证：MIT
 - 平台/支持条件：!(uwp | osx | (arm64 & windows))
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/s-/simd.json
+- 版本记录：https://github.com/conan-io/conan-center-index/blob/master/recipes/simd/config.yml
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/s-/simd.json

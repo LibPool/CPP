@@ -6,7 +6,7 @@
 
 med-fichier provides a low level C API for fine-grained access to the structure of MED files (.med)
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -28,7 +28,6 @@ med-fichier provides a low level C API for fine-grained access to the structure 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install salome-med-fichier`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/salome-med-fichier
-- 许可证：LGPL-3.0-or-later
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/s-/salome-med-fichier.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/salome-med-fichier
+- vcpkg 许可证：LGPL-3.0-or-later
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/s-/salome-med-fichier.json

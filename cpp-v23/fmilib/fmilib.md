@@ -6,7 +6,7 @@
 
 FMI library is intended as a foundation for applications interfacing FMUs (Functional Mockup Units) that follow FMI Standard. This version of the library supports FMI 1.0 and FMI2.0.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -27,8 +27,7 @@ FMI library is intended as a foundation for applications interfacing FMUs (Funct
 ## 获取地址
 
 vcpkg 安装：`vcpkg install fmilib`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/fmilib
-- 许可证：BSD-3-Clause
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/fmilib
+- vcpkg 许可证：BSD-3-Clause
 - 平台/支持条件：!uwp
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/f-/fmilib.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/f-/fmilib.json

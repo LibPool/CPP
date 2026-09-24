@@ -6,7 +6,7 @@
 
 Rigid Body Dynamics Library
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -30,6 +30,5 @@ Rigid Body Dynamics Library
 ## 获取地址
 
 vcpkg 安装：`vcpkg install rbdl`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/rbdl
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/r-/rbdl.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/rbdl
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/r-/rbdl.json

@@ -6,7 +6,7 @@
 
 Drop-in replacement to Vulkan's shared library, allowing the use of OpenGL or Direct3D11 in addition to Vulkan.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,8 +23,7 @@ Drop-in replacement to Vulkan's shared library, allowing the use of OpenGL or Di
 ## 获取地址
 
 vcpkg 安装：`vcpkg install ashes`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/ashes
-- 许可证：MIT
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/ashes
+- vcpkg 许可证：MIT
 - 平台/支持条件：!ios & !android & !uwp & !x86 & !arm32 & !static
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/a-/ashes.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/a-/ashes.json

@@ -6,7 +6,7 @@
 
 The C++ interface for exiftool provides the source code for a set of objects that allow C++ applications to easily leverage the full power of the exiftool application through a simple interface. This interface handles all the hard work of launching, monitoring, controlling, and communicating with an external exiftool process.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,7 +23,6 @@ The C++ interface for exiftool provides the source code for a set of objects tha
 ## 获取地址
 
 vcpkg 安装：`vcpkg install cpp-exiftool`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/cpp-exiftool
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/cpp-exiftool
 - 平台/支持条件：linux
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/c-/cpp-exiftool.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/c-/cpp-exiftool.json

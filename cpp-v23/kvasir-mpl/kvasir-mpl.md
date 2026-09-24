@@ -6,7 +6,7 @@
 
 This library is part of the Kvasir project. Kvasir is a collection of zero cost statically checked libraries for resource constrained systems including microcontrollers.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,6 +23,5 @@ This library is part of the Kvasir project. Kvasir is a collection of zero cost 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install kvasir-mpl`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/kvasir-mpl
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/k-/kvasir-mpl.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/kvasir-mpl
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/k-/kvasir-mpl.json

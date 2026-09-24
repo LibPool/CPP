@@ -6,7 +6,7 @@
 
 The sparsehash package consists of two hashtable implementations: sparse, which is designed to be very space efficient, and dense, which is designed to be very time efficient.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -25,6 +25,5 @@ The sparsehash package consists of two hashtable implementations: sparse, which 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install sparsehash`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/sparsehash
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/s-/sparsehash.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/sparsehash
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/s-/sparsehash.json

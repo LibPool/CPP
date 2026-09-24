@@ -6,7 +6,7 @@
 
 Parallel STL is an implementation of the C++ standard library algorithms with support for execution policies, as specified in ISO/IEC 14882:2017 standard, commonly called C++17.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,6 +23,5 @@ Parallel STL is an implementation of the C++ standard library algorithms with su
 ## 获取地址
 
 vcpkg 安装：`vcpkg install parallelstl`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/parallelstl
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/p-/parallelstl.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/parallelstl
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/p-/parallelstl.json

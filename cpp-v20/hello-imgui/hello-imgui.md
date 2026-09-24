@@ -7,7 +7,7 @@
 Hello ImGui: unleash your creativity in app development and prototyping
 Note that at least on renderer backend and at least one platform backend must be chosen.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -32,7 +32,6 @@ Note that at least on renderer backend and at least one platform backend must be
 ## 获取地址
 
 vcpkg 安装：`vcpkg install hello-imgui`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/hello-imgui
-- 许可证：MIT
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/h-/hello-imgui.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/hello-imgui
+- vcpkg 许可证：MIT
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/h-/hello-imgui.json

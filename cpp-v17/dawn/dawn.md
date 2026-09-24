@@ -6,7 +6,7 @@
 
 Dawn is an open-source and cross-platform implementation of the WebGPU standard.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -30,12 +30,11 @@ Dawn is an open-source and cross-platform implementation of the WebGPU standard.
 - 20260219.200501
 - 20251202.213730#2
 - 20251202.213730#1
-- 共 15 条版本记录，完整清单见 vcpkg versions 文件。
+- 共 15 条 vcpkg 版本记录，完整清单见 vcpkg versions 文件。
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install dawn`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/dawn
-- 许可证：BSD-3-Clause
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/d-/dawn.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/dawn
+- vcpkg 许可证：BSD-3-Clause
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/d-/dawn.json

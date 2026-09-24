@@ -6,7 +6,7 @@
 
 Simplest, Well-tested, Non-linear equations solver library.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -24,7 +24,6 @@ Simplest, Well-tested, Non-linear equations solver library.
 ## 获取地址
 
 vcpkg 安装：`vcpkg install tomsolver`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/tomsolver
-- 许可证：MIT
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/t-/tomsolver.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/tomsolver
+- vcpkg 许可证：MIT
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/t-/tomsolver.json

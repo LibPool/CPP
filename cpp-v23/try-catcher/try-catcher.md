@@ -6,7 +6,7 @@
 
 C++ header uses RAII to try each step of a sequence of operations, catch all exceptions that may occur, and throw a single, composite message when TryCatcher goes out of scope.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,7 +23,6 @@ C++ header uses RAII to try each step of a sequence of operations, catch all exc
 ## 获取地址
 
 vcpkg 安装：`vcpkg install try-catcher`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/try-catcher
-- 许可证：MIT
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/t-/try-catcher.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/try-catcher
+- vcpkg 许可证：MIT
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/t-/try-catcher.json

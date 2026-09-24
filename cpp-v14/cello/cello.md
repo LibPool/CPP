@@ -6,7 +6,7 @@
 
 Higher level programming in C
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -23,7 +23,6 @@ Higher level programming in C
 ## 获取地址
 
 vcpkg 安装：`vcpkg install cello`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/cello
-- 许可证：BSD-2-Clause-Views
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/c-/cello.json
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/cello
+- vcpkg 许可证：BSD-2-Clause-Views
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/c-/cello.json

@@ -6,7 +6,7 @@
 
 C++ library for access to DJ record libraries. Currently only supports Denon Engine Prime databases
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -30,13 +30,12 @@ C++ library for access to DJ record libraries. Currently only supports Denon Eng
 - 0.20.3
 - 0.20.2
 - 0.20.1
-- 共 18 条版本记录，完整清单见 vcpkg versions 文件。
+- 共 18 条 vcpkg 版本记录，完整清单见 vcpkg versions 文件。
 
 ## 获取地址
 
 vcpkg 安装：`vcpkg install libdjinterop`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libdjinterop
-- 许可证：LGPL-3.0-or-later
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libdjinterop
+- vcpkg 许可证：LGPL-3.0-or-later
 - 平台/支持条件：!xbox
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libdjinterop.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libdjinterop.json

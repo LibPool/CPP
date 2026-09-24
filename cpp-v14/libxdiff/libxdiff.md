@@ -6,7 +6,7 @@
 
 The LibXDiff library implements basic and yet complete functionalities to create file differences/patches to both binary and text files. The library uses memory files as file abstraction to achieve both performance and portability.
 
-本端口来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
+本库来自 vcpkg 官方端口集，已收录于 cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23。
 
 ## 官网
 
@@ -25,7 +25,6 @@ The LibXDiff library implements basic and yet complete functionalities to create
 ## 获取地址
 
 vcpkg 安装：`vcpkg install libxdiff`
-port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libxdiff
+vcpkg port 目录：https://github.com/microsoft/vcpkg/tree/master/ports/libxdiff
 - 平台/支持条件：!uwp
-
-- 版本记录：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libxdiff.json
+- vcpkg 版本文件：https://github.com/microsoft/vcpkg/blob/master/versions/l-/libxdiff.json
