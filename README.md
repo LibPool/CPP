@@ -5,7 +5,7 @@
 - 大版本目录：cpp-v11、cpp-v14、cpp-v17、cpp-v20、cpp-v23
 - 端口路径：`fmt` 位于 `cpp-v11/fmt/fmt.md`
 - vcpkg 端口与 Conan recipe 同时覆盖 C 与 C++ 生态；同一库会出现在其可使用的后续语言标准目录中
-- 当前共收录 vcpkg 端口 2886 个、Conan Center recipe 1973 个，合并去重后 3821 个库。
+- 当前上游共有 vcpkg 端口 2887 个、Conan Center recipe 1973 个，去重后 3818 个库；目录同时保留 4 个已下线上游项，共 3822 个库条目。
 
 ## 数据源
 
@@ -23,10 +23,10 @@ python tools/generate_index.py
 
 按大版本统计：
 
-- cpp-v11：3821 个端口
-- cpp-v14：3821 个端口
-- cpp-v17：3821 个端口
-- cpp-v20：3821 个端口
-- cpp-v23：3821 个端口
+- cpp-v11：3822 个库条目
+- cpp-v14：3822 个库条目
+- cpp-v17：3822 个库条目
+- cpp-v20：3822 个库条目
+- cpp-v23：3822 个库条目
 
 数据缓存见 [tools/cache/vcpkg-master.tar.gz](tools/cache/vcpkg-master.tar.gz)。
